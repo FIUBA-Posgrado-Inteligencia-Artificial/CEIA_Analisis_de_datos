@@ -5,10 +5,10 @@ Bienvenido/a al repositorio del curso de **Análisis de Datos** como parte del p
 
 ## 📂 Estructura del Repositorio
 
-- **`notebooks/`** → Contiene los Jupyter Notebooks con los ejemplos y ejercicios de cada clase.
+- **`notebooks/`** → Contiene las Jupyter Notebooks con los ejemplos y ejercicios de cada clase.
 - **`datasets/`** → Conjunto de datos utilizados en los ejemplos y prácticas.
 - **`recursos/`** → Artículos, enlaces y materiales de referencia recomendados.
-- **`scripts/`** → Código adicional o funciones auxiliares utilizadas en los notebooks.
+- **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 
 ## 📚 Contenido del Curso
