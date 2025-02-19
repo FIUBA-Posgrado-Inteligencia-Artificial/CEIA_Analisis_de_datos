@@ -37,3 +37,8 @@ Este curso recomienda usar Poetry con venv para gestionar dependencias y entorno
 1. Instalar Poetry: [Instrucciones] (https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 ### 🔹 Opción 2: Usar Poetry + Conda-->
+
+## 📫 Contacto
+
+María Carina Roldán ✉️ macroldan@fi.uba.edu.ar
+Ariadna Garmendia ✉️ arigarmendia@gmail.com
