@@ -21,8 +21,9 @@ Bienvenido/a al repositorio del curso de **Análisis de Datos** como parte del p
 | 4️⃣ | Outliers, discretización y escalamiento | _Por agregar_ |
 | 5️⃣ | Ingeniería de features | _Por agregar_ |
 | 6️⃣ | Taller práctico | _Por agregar_ |
-<!--  | 7️⃣ |  | _Por agregar_ | -->
 | 8️⃣ | Reducción de dimensionalidad | _Por agregar_ |
+<!--  | 7️⃣ |  | _Por agregar_ | -->
+
 
 
 <!-- ## ⚙️ Instalación y Configuración del Entorno
