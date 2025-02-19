@@ -2,11 +2,11 @@
 ![](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos/blob/main/banner.png)
 
 
-Bienvenidos al repositorio del curso de **Análisis de Datos**! Aquí encontrarán los materiales de clase, notebooks, datasets y recursos adicionales.
+Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrarán los materiales de clase, notebooks, datasets y recursos adicionales.
 
 ## 📂 Estructura del Repositorio
 
-- **`notebooks/`** → Contiene las Jupyter Notebooks con los ejemplos y ejercicios de cada clase.
+- **`notebooks/`** → Contiene las notebooks con los ejemplos y ejercicios de cada clase.
 - **`datasets/`** → Conjunto de datos utilizados en los ejemplos y prácticas.
 - **`recursos/`** → Artículos, enlaces y materiales de referencia recomendados.
 - **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
@@ -18,7 +18,7 @@ Bienvenidos al repositorio del curso de **Análisis de Datos**! Aquí encontrar�
 |--------|-----------------------------|-----------------------------|
 | 1️⃣ | Introducción al Análisis de Datos | [clase_01_introduccion.ipynb](notebooks/clase_01_introduccion.ipynb) |
 | 2️⃣ | Visualización y exploración de datos | [clase_02_visualizacion.ipynb](notebooks/clase_02_preprocesamiento.ipynb) |
-| 3️⃣ | Caracterización de variables e imputación de datos faltantes. | [clase_03_datos_faltantes.ipynb](notebooks/clase_03_visualizacion.ipynb) |
+| 3️⃣ | Caracterización de variables e imputación de datos faltantes | [clase_03_datos_faltantes.ipynb](notebooks/clase_03_visualizacion.ipynb) |
 | 4️⃣ | Outliers, discretización y escalamiento | _Por agregar_ |
 | 5️⃣ | Ingeniería de features | _Por agregar_ |
 | 6️⃣ | Taller práctico | _Por agregar_ |
