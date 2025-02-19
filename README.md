@@ -22,8 +22,9 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 | 4️⃣ | Outliers, discretización y escalamiento | _Por agregar_ |
 | 5️⃣ | Ingeniería de features | _Por agregar_ |
 | 6️⃣ | Taller práctico | _Por agregar_ |
+| 7️⃣ | Presentación de trabajos finales | N/A |
 | 8️⃣ | Reducción de dimensionalidad | _Por agregar_ |
-<!--  | 7️⃣ |  | _Por agregar_ | -->
+
 
 
 
