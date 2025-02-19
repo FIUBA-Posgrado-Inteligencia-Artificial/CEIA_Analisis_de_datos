@@ -1,9 +1,8 @@
 
 ![](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos/blob/main/banner.png)
 
-# 📊 Análisis de Datos - Carrera de Especialización en Inteligencia Artificial
 
-Bienvenido/a al repositorio del curso de **Análisis de Datos** como parte del posgrado en Inteligencia Artificial de la Universidad de Buenos Aires. Aquí encontrarás los materiales de clase, notebooks, datasets y recursos adicionales.
+Bienvenidos al repositorio del curso de **Análisis de Datos**! Aquí encontrarán los materiales de clase, notebooks, datasets y recursos adicionales.
 
 ## 📂 Estructura del Repositorio
 
