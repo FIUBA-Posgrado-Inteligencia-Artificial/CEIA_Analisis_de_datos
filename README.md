@@ -30,7 +30,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 ### 🔹 Opción 1: Usar Poetry + Python venv (Recomendado)
 
-1. Instalar Poetry: [Instrucciones] (https://python-poetry.org/docs/#installing-with-the-official-installer)
+1. Instalar Poetry: [Instrucciones](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 ### 🔹 Opción 2: Usar Poetry + Conda
 
