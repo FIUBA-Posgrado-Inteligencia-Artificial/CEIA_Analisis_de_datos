@@ -28,13 +28,39 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 ## ⚙️ Instalación y Configuración del Entorno
 
-### 🔹 Opción 1: Usar Poetry + Python venv (Recomendado)
+En esta sección se explican los pasos para utilizar este repositorio.
+
+### 🔹 Opción 1: Usar un env de Conda
+
+1. Clonar el repositorio:
+
+`git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git`
+
+`cd CEIA_Analisis_de_datos`
+
+2. Crear y activar el environment:
+
+`conda env create -f environment.yml`
+
+`conda activate add-env`
+
+
+### 🔹 Opción 2: Usar Python venv con Poetry para manejo de dependencias
 
 1. Instalar Poetry: [Instrucciones](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
-### 🔹 Opción 2: Usar Poetry + Conda
 
 ### 🔹 Opción 3: Usar Google Colab
+
+Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza Python 3.11 y no debería haber inconvenientes para ejecutar las notebooks de la materia con esta herramienta. Pasos a seguir:
+
+1. Desde Colab, ir al menú 'File' y hacer click en 'Open Notebook'
+
+2. En la nueva ventana que se abre, ir a la opción 'GitHub' (en el menú de la derecha).
+
+3. En la barra buscadora, copiar la URL del repo: `https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git`
+
+4. Asegurarse que en 'Repository' aparezca el nombre correcto (FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) y la branch sea 'main'. Seleccionar la notebook deseada.
 
 
 
