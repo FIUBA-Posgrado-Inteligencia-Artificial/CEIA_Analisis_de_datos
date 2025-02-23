@@ -43,7 +43,8 @@ cd CEIA_Analisis_de_datos
 
 ```bash
 conda env create -f environment.yml
-conda activate add-env```
+conda activate add-env
+```
 
 
 ### 🔹 Opción 2: Usar Python venv con Poetry para manejo de dependencias
