@@ -34,15 +34,16 @@ En esta sección se explican los pasos para utilizar este repositorio.
 
 1. Clonar el repositorio:
 
-```git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git```
-
-```cd CEIA_Analisis_de_datos```
+```bash
+git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
+cd CEIA_Analisis_de_datos
+```
 
 2. Crear y activar el environment:
 
-```conda env create -f environment.yml```
-
-```conda activate add-env```
+```bash
+conda env create -f environment.yml
+conda activate add-env```
 
 
 ### 🔹 Opción 2: Usar Python venv con Poetry para manejo de dependencias
@@ -58,7 +59,11 @@ Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza P
 
 2. En la nueva ventana que se abre, ir a la opción 'GitHub' (en el menú de la derecha).
 
-3. En la barra buscadora, copiar el nombre del repo: ```FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos```
+3. En la barra buscadora, copiar el nombre del repo: 
+
+```bash
+FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
+```
 
 4. Asegurarse que en 'Repository' aparezca el nombre correcto (FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) y la branch sea 'main'. Hacer click en la notebook deseada para abrir.
 
