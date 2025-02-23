@@ -58,9 +58,9 @@ Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza P
 
 2. En la nueva ventana que se abre, ir a la opción 'GitHub' (en el menú de la derecha).
 
-3. En la barra buscadora, copiar la URL del repo: `https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git`
+3. En la barra buscadora, copiar el nombre del repo: `FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos`
 
-4. Asegurarse que en 'Repository' aparezca el nombre correcto (FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) y la branch sea 'main'. Seleccionar la notebook deseada.
+4. Asegurarse que en 'Repository' aparezca el nombre correcto (FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) y la branch sea 'main'. Hacer click en la notebook deseada para abrir.
 
 
 
