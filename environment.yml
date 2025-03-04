@@ -1,0 +1,14 @@
+name: add-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - seaborn
+  - ydata-profiling
+  - scikit-learn
+  - jupyter
+  - bs4
+  - sqlalchemy
