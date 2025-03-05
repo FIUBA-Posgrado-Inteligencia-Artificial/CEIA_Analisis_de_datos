@@ -54,13 +54,13 @@ jupyter notebook
 
 ### 🔹 Opción 2: Usar un env de Poetry
 
-Este proyecto permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir de los archivos `pyproject.toml` y `poetry.lock` proporcionados.
+Este proyecto también permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir de los archivos `pyproject.toml` y `poetry.lock` proporcionados.
 
 #### Prerrequisitos 
  * Poetry : [Instrucciones de instalación](https://python-poetry.org/docs/#installing-with-the-official-installer)
  * Python 3.11 o 3.12
 
-1. Clone repo:
+1. Clonar el repo:
 
 ```bash
 git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
@@ -91,12 +91,12 @@ Nota: --no-root evita la instalación como package que no es necesaria aquí.
 ```bash
 poetry env list
 ```
-Este comando devuelve todos los environments asociados al proyecto (verificar que `ceia-analisis-de-datos-xxxxxxx-py3.11` aparece en la lista)
+> Este comando devuelve todos los environments asociados al proyecto (verificar que `ceia-analisis-de-datos-xxxxxxx-py3.11` aparece en la lista)
 
 ```bash
 poetry env info
 ```
-Este comando muestra detalles tales como la versión de Python y el path (ej., /Users/<username>/Library/Caches/pypoetry/virtualenvs/... en macOS o C:\Users\<username>\AppData\Local\pypoetry\... en Windows).
+> Este comando muestra detalles tales como la versión de Python y el path (ej., /Users/<username>/Library/Caches/pypoetry/virtualenvs/... en macOS o C:\Users\<username>\AppData\Local\pypoetry\... en Windows).
 
 
 5. Activar el environment
@@ -113,21 +113,21 @@ eval "$(poetry env activate)"
 Invoke-Expression (poetry env activate)
 ```
 
-* Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-xxxxxxx-py3.11`).
+> Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-xxxxxxx-py3.11`).
 
 7. Verificar activación
 
 ```bash
 python --version
 ```
-* Debería mostrar Python 3.11.X o 3.12.X.
+> Debería mostrar Python 3.11.X o 3.12.X.
 
 
 ```bash
 which python  # macOS/Linux
 where python  # Windows
 ```
-* Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/.../bin/python o C:\Users\<username>\...\Scripts\python.exe).
+> Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/.../bin/python o C:\Users\<username>\...\Scripts\python.exe).
 
 
 6. Abrir Jupyter
