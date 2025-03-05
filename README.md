@@ -49,7 +49,7 @@ conda env create -f environment.yml
 conda activate add-env
 ```
 
-#### 3. Abrir Jupyter
+#### 3. Abrir Jupyter:
 
 ```bash
 jupyter notebook
@@ -83,13 +83,13 @@ poetry env use python3.11
 poetry env use "py -3.11" 
 ```
 
-#### 3. Instalar dependencias (Linux/MacOS/Windows)
+#### 3. Instalar dependencias (Linux/MacOS/Windows):
 ```bash
 poetry install --no-root 
 ```
 Nota: --no-root evita la instalación como package que no es necesaria aquí.
 
-#### 4. Verificar que el environment se instaló correctamente
+#### 4. Verificar que el environment se instaló correctamente:
 
 ```bash
 poetry env list
@@ -102,7 +102,7 @@ poetry env info
 > Este comando muestra detalles tales como la versión de Python y el path (ej., `/Users/<username>/Library/Caches/pypoetry/virtualenvs/...` en macOS o `C:\Users\<username>\AppData\Local\pypoetry\...` en Windows).
 
 
-#### 5. Activar el environment
+#### 5. Activar el environment:
 
 * macOS/Linux (zsh/bash):
 
@@ -118,7 +118,7 @@ Invoke-Expression (poetry env activate)
 
 > Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-xxxxxxx-py3.11`).
 
-#### 6. Verificar activación
+#### 6. Verificar activación:
 
 ```bash
 python --version
@@ -133,7 +133,7 @@ where python  # Windows
 > Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/.../bin/python o C:\Users\<username>\...\Scripts\python.exe).
 
 
-#### 7. Abrir Jupyter
+#### 7. Abrir Jupyter:
 
 ```bash
 poetry run jupyter notebook
