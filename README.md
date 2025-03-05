@@ -32,6 +32,9 @@ En esta sección se explican los pasos para utilizar este repositorio.
 
 ### **🔹 Opción 1: Usar un env de Conda**
 
+#### Prerrequisitos 
+* Anaconda o miniconda
+
 #### 1. Clonar el repositorio:
 
 ```bash
