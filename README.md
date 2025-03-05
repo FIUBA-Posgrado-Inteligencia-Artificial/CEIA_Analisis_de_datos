@@ -96,7 +96,7 @@ poetry env list
 ```bash
 poetry env info
 ```
-> Este comando muestra detalles tales como la versión de Python y el path (ej., /Users/<username>/Library/Caches/pypoetry/virtualenvs/... en macOS o C:\Users\<username>\AppData\Local\pypoetry\... en Windows).
+> Este comando muestra detalles tales como la versión de Python y el path (ej., `/Users/<username>/Library/Caches/pypoetry/virtualenvs/...` en macOS o `C:\Users\<username>\AppData\Local\pypoetry\...` en Windows).
 
 
 5. Activar el environment
