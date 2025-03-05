@@ -30,29 +30,29 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 En esta sección se explican los pasos para utilizar este repositorio.
 
-### 🔹 Opción 1: Usar un env de Conda
+**### 🔹 Opción 1: Usar un env de Conda**
 
-1. Clonar el repositorio:
+#### 1. Clonar el repositorio:
 
 ```bash
 git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
 cd CEIA_Analisis_de_datos
 ```
 
-2. Crear y activar el environment:
+#### 2. Crear y activar el environment:
 
 ```bash
 conda env create -f environment.yml
 conda activate add-env
 ```
 
-3. Abrir Jupyter
+#### 3. Abrir Jupyter
 
 ```bash
 jupyter notebook
 ```
 
-### 🔹 Opción 2: Usar un env de Poetry
+**### 🔹 Opción 2: Usar un env de Poetry**
 
 Este proyecto también permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir de los archivos `pyproject.toml` y `poetry.lock` proporcionados.
 
@@ -60,14 +60,14 @@ Este proyecto también permite usar Poetry para manejo de dependencias. Seguir l
  * Poetry : [Instrucciones de instalación](https://python-poetry.org/docs/#installing-with-the-official-installer)
  * Python 3.11 o 3.12
 
-1. Clonar el repo:
+#### 1. Clonar el repo:
 
 ```bash
 git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
 cd CEIA_Analisis_de_datos
 ```
 
-2. Crear el environment (ejemplo con Python 3.11, ajustar a 3.12 de ser necesario):
+#### 2. Crear el environment (ejemplo con Python 3.11, ajustar a 3.12 de ser necesario):
 
 * macOS/Linux
 
@@ -80,13 +80,13 @@ poetry env use python3.11
 poetry env use "py -3.11" 
 ```
 
-3. Instalar dependencias (Linux/MacOS/Windows)
+#### 3. Instalar dependencias (Linux/MacOS/Windows)
 ```bash
 poetry install --no-root 
 ```
 Nota: --no-root evita la instalación como package que no es necesaria aquí.
 
-4. Verificar que el environment se instaló correctamente
+#### 4. Verificar que el environment se instaló correctamente
 
 ```bash
 poetry env list
@@ -99,7 +99,7 @@ poetry env info
 > Este comando muestra detalles tales como la versión de Python y el path (ej., `/Users/<username>/Library/Caches/pypoetry/virtualenvs/...` en macOS o `C:\Users\<username>\AppData\Local\pypoetry\...` en Windows).
 
 
-5. Activar el environment
+#### 5. Activar el environment
 
 * macOS/Linux (zsh/bash):
 
@@ -115,7 +115,7 @@ Invoke-Expression (poetry env activate)
 
 > Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-xxxxxxx-py3.11`).
 
-7. Verificar activación
+#### 6. Verificar activación
 
 ```bash
 python --version
@@ -130,28 +130,28 @@ where python  # Windows
 > Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/.../bin/python o C:\Users\<username>\...\Scripts\python.exe).
 
 
-6. Abrir Jupyter
+#### 7. Abrir Jupyter
 
 ```bash
 poetry run jupyter notebook
 ```
 
 
-### 🔹 Opción 3: Usar Google Colab
+**### 🔹 Opción 3: Usar Google Colab**
 
 Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza Python 3.11 y no debería haber inconvenientes para ejecutar las notebooks de la materia con esta herramienta. Pasos a seguir:
 
-1. Desde Colab, ir al menú 'File' y hacer click en 'Open Notebook'
+#### 1. Desde Colab, ir al menú **File** y hacer click en **Open Notebook**.
 
-2. En la nueva ventana que se abre, ir a la opción 'GitHub' (en el menú de la derecha).
+#### 2. En la nueva ventana que se abre, ir a la opción **GitHub** (en el menú de la derecha).
 
-3. En la barra buscadora, copiar el nombre del repo: 
+#### 3. En la barra buscadora, copiar el nombre del repo: 
 
 ```bash
 FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 ```
 
-4. Asegurarse que en 'Repository' aparezca el nombre correcto (FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) y la branch sea 'main'. Hacer click en la notebook deseada para abrir.
+#### 4. Asegurarse que en **Repository** aparezca el nombre correcto (`FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos`) y la branch sea **main**. Hacer click en la notebook deseada para abrir.
 
 
 
