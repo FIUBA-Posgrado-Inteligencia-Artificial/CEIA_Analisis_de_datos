@@ -144,9 +144,9 @@ poetry run jupyter notebook
 
 Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza Python 3.11 y no debería haber inconvenientes para ejecutar las notebooks de la materia con esta herramienta. Pasos a seguir:
 
-#### 1. Desde Colab, ir al menú **File** y hacer click en **Open Notebook**.
+#### 1. Desde Colab, ir al menú ***File*** y hacer click en ***Open*** ***Notebook***.
 
-#### 2. En la nueva ventana que se abre, ir a la opción **GitHub** (en el menú de la derecha).
+#### 2. En la nueva ventana que se abre, ir a la opción ***GitHub*** (en el menú de la derecha).
 
 #### 3. En la barra buscadora, copiar el nombre del repo: 
 
@@ -154,7 +154,7 @@ Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza P
 FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 ```
 
-#### 4. Asegurarse que en **Repository** aparezca el nombre correcto (`FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos`) y la branch sea **main**. Hacer click en la notebook deseada para abrir.
+#### 4. Asegurarse que en ***Repository*** aparezca el nombre correcto (`FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos`) y la branch sea ***main***. Hacer click en la notebook deseada para abrir.
 
 
 
