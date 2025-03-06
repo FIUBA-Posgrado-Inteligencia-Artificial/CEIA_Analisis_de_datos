@@ -116,7 +116,7 @@ eval "$(poetry env activate)"
 Invoke-Expression (poetry env activate)
 ```
 
-> Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-xxxxxxx-py3.11`).
+> Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-py3.11`).
 
 #### 6. Verificar activación:
 
@@ -133,11 +133,21 @@ where python  # Windows
 > Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/.../bin/python o C:\Users\<username>\...\Scripts\python.exe).
 
 
-#### 7. Abrir Jupyter:
+#### 7. Registrar el environment en Jupyter:
 
 ```bash
-poetry run jupyter notebook
+poetry run python -m ipykernel install --user --name=ceia-analisis-de-datos --display-name "Python (CEIA)"
 ```
+
+
+#### 8. Abrir Jupyter y seleccionar el kernel correcto:
+
+```bash
+jupyter notebook
+```
+Una vez abierto Jupyter, ir a **Kernel** → **Change Kernel** y seleccionar **"Python (CEIA)"**.
+
+
 
 
 ### **🔹 Opción 3: Usar Google Colab**
