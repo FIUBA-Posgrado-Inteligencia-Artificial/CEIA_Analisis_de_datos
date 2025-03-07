@@ -34,6 +34,7 @@ En esta sección se explican los pasos para utilizar este repositorio.
 
 #### Prerrequisitos 
 * Anaconda o miniconda
+* Git
 
 #### 1. Clonar el repositorio:
 
@@ -62,6 +63,7 @@ Este proyecto también permite usar Poetry para manejo de dependencias. Seguir l
 #### Prerrequisitos 
  * Poetry : [Instrucciones de instalación](https://python-poetry.org/docs/#installing-with-the-official-installer)
  * Python 3.11 o 3.12
+ * Git
 
 #### 1. Clonar el repo:
 
