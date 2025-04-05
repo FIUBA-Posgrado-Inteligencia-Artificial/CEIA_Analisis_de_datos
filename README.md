@@ -19,10 +19,10 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 | 1️⃣ | Introducción al Análisis de Datos | [notebook_clase_1](notebooks/clase_01_introduccion.ipynb) |
 | 2️⃣ | Visualización y exploración de datos | [notebook_clase_2](notebooks/clase_02_visualizacion.ipynb) |
 | 3️⃣ | Caracterización de variables e imputación de datos faltantes | [notebook_clase_3_outliers](notebooks/clase_03_1_outliers.ipynb) |
-|  ^^  |   ^^                                                           | [notebook_clase_3_codificación](notebooks/clase_03_2_codificacion.ipynb) |
-|  ^^  |    ^^                                                          | [notebook_clase_3_discretización](notebooks/clase_03_3_discretizacion.ipynb) |
-|  ^^  |      ^^                                                        | [notebook_clase_3_desbalance](notebooks/clase_03_4_desbalance.ipynb) |
-|  ^^  |    ^^                                                          | [notebook_clase_3_normalización_estandarización](notebooks/clase_03_5_normalizacion_estandarizacion.ipynb) |
+|^^  |^^                                                           | [notebook_clase_3_codificación](notebooks/clase_03_2_codificacion.ipynb) |
+|^^  |^^                                                          | [notebook_clase_3_discretización](notebooks/clase_03_3_discretizacion.ipynb) |
+|^^  |^^                                                        | [notebook_clase_3_desbalance](notebooks/clase_03_4_desbalance.ipynb) |
+|^^  |^^                                                          | [notebook_clase_3_normalización_estandarización](notebooks/clase_03_5_normalizacion_estandarizacion.ipynb) |
 | 4️⃣ | Outliers, discretización y escalamiento | [notebook_clase_4](notebooks/clase_04_outliers_discretizacion_escalamiento.ipynb)|
 | 5️⃣ | Ingeniería de features y reducción de dimensionalidad  | [notebook_clase_5](notebooks/clase_05_reduccion_de_dimensionalidad.ipynb) |
 | 6️⃣ | Taller práctico | [notebook_clase_6](notebooks/clase_06_taller.ipynb)|
