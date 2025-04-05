@@ -17,13 +17,14 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 | Clase | Tema | Notebooks |
 |--------|-----------------------------|-----------------------------|
 | 1️⃣ | Introducción al Análisis de Datos | [notebook_clase_1](notebooks/clase_01_introduccion.ipynb) |
-| 2️⃣ | Visualización y exploración de datos | [notebook_clase_2](notebooks/clase_02_preprocesamiento.ipynb) |
-| 3️⃣ | Caracterización de variables e imputación de datos faltantes | [notebook_clase_3](notebooks/clase_03_visualizacion.ipynb) |
+| 2️⃣ | Visualización y exploración de datos | [notebook_clase_2](notebooks/clase_02_visualizacion.ipynb) |
+| 3️⃣ | Caracterización de variables e imputación de datos faltantes | [notebook_clase_3_outliers](notebooks/clase_03_1_outliers.ipynb) |
+|  |  | [notebook_clase_3_codificación](notebooks/clase_03_2_codificacion.ipynb) |
 | 4️⃣ | Outliers, discretización y escalamiento | [notebook_clase_4](notebooks/clase_04_outliers_discretizacion_escalamiento.ipynb)|
-| 5️⃣ | Ingeniería de features | [notebook_clase_5](notebooks/clase_05_ingenieria_de_features.ipynb) |
+| 5️⃣ | Ingeniería de features y reducción de dimensionalidad  | [notebook_clase_5](notebooks/clase_05_reduccion_de_dimensionalidad.ipynb) |
 | 6️⃣ | Taller práctico | [notebook_clase_6](notebooks/clase_06_taller.ipynb)|
 | 7️⃣ | Presentación de trabajos finales | N/A |
-| 8️⃣ | Reducción de dimensionalidad | [notebook_clase_8](notebooks/clase_08_reduccion_dimensionalidad.ipynb) |
+| 8️⃣ | Automatización del análisis de datos| [notebook_clase_8](notebooks/clase_08_reduccion_dimensionalidad.ipynb) |
 
 
 ## ⚙️ Instalación y Configuración del Entorno
