@@ -22,7 +22,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 |    |                                                              | [notebook_clase_3_codificación](notebooks/clase_03_2_codificacion.ipynb) |
 |    |                                                              | [notebook_clase_3_discretización](notebooks/clase_03_3_discretizacion.ipynb) |
 |    |                                                              | [notebook_clase_3_desbalance](notebooks/clase_03_4_desbalance.ipynb) |
-|    |                                                              | [notebook_clase_3_normalizacion_estantarización](notebooks/clase_03_5_normalizacion_estandarizacion.ipynb) |
+|    |                                                              | [notebook_clase_3_normalización_estandarización](notebooks/clase_03_5_normalizacion_estandarizacion.ipynb) |
 | 4️⃣ | Outliers, discretización y escalamiento | [notebook_clase_4](notebooks/clase_04_outliers_discretizacion_escalamiento.ipynb)|
 | 5️⃣ | Ingeniería de features y reducción de dimensionalidad  | [notebook_clase_5](notebooks/clase_05_reduccion_de_dimensionalidad.ipynb) |
 | 6️⃣ | Taller práctico | [notebook_clase_6](notebooks/clase_06_taller.ipynb)|
