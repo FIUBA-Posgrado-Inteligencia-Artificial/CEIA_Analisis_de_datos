@@ -23,7 +23,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td>1️⃣</td>
         <td>Introducción al Análisis de Datos</td>
-        <td>[notebook_clase_1](notebooks/clase_01_introduccion.ipynb)</td>
+        <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
 </table>
 
 
