@@ -32,7 +32,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td rowspan="5">3️⃣</td>
-        <td>Caracterización de variables e imputación de datos faltantes</td>
+        <td rowspan="5">Caracterización de variables e imputación de datos faltantes</td>
         <td><a href=notebooks/clase_03_1_outliers.ipynb>notebook_clase_3_outliers</a></td>
     </tr>
     <tr>
