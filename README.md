@@ -77,9 +77,11 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 ## 📅 Fechas importantes
 
-Entrega del trabajo práctico final: **Martes 15 de abril de 2025 (hasta las 23:59 hora de Argentina)**.
-Presentación del trabajo práctico final: **Jueves 17 de abril de 2025**.
-Última clase: **Jueves 24 de abril de 2025**.
+* Entrega del trabajo práctico final: **Martes 15 de abril de 2025 (hasta las 23:59 hora de Argentina)**.
+
+* Presentación del trabajo práctico final: **Jueves 17 de abril de 2025**.
+
+* Última clase: **Jueves 24 de abril de 2025**.
 
 
 
