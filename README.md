@@ -12,7 +12,20 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 
-## 📚 Contenido del Curso >
+## 📚 Contenido del Curso 
+
+<table>
+    <tr>
+        <td>Clase</td>
+        <td>Tema</td>
+        <td>Notebooks</td>
+    </tr>
+    <tr>
+        <td>1️⃣</td>
+        <td>Introducción al Análisis de Datos</td>
+        <td>[notebook_clase_1](notebooks/clase_01_introduccion.ipynb)</td>
+</table>
+
 
 | Clase | Tema | Notebooks |
 |--------|-----------------------------|-----------------------------|
