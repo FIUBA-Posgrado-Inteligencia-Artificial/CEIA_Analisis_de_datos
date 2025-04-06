@@ -12,13 +12,13 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 
-## 📚 Contenido del Curso
+## 📚 Contenido del Curso >
 
 | Clase | Tema | Notebooks |
 |--------|-----------------------------|-----------------------------|
 | 1️⃣ | Introducción al Análisis de Datos | [notebook_clase_1](notebooks/clase_01_introduccion.ipynb) |
 | 2️⃣ | Visualización y exploración de datos | [notebook_clase_2](notebooks/clase_02_visualizacion.ipynb) |
-| 3️⃣ | Caracterización de variables e imputación de datos faltantes | [notebook_clase_3_outliers](notebooks/clase_03_1_outliers.ipynb) |
+| 3️⃣ | Caracterización de variables e imputación de datos faltantes <br><br><br>| [notebook_clase_3_outliers](notebooks/clase_03_1_outliers.ipynb) |
 | ^^  | ^^                                                           | [notebook_clase_3_codificación](notebooks/clase_03_2_codificacion.ipynb) |
 | ^^  | ^^                                                          | [notebook_clase_3_discretización](notebooks/clase_03_3_discretizacion.ipynb) |
 | ^^  | ^^                                                        | [notebook_clase_3_desbalance](notebooks/clase_03_4_desbalance.ipynb) |
