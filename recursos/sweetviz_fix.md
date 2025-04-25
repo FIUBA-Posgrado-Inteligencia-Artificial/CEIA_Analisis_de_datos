@@ -1,7 +1,7 @@
 ### Pasos para arreglar el bug de Sweetviz (Actualizado al 25/04/2025)
 
 Contexto: la biblioteca Sweetviz tiene un bug que afecta la generación de reportes. Esto se debe a dependencias con la biblioteca Numpy, que realizô ciertos cambios a partir de la versión 2. 0.0. En particular, la advertencia `VisibleDeprecationWarning` ha cambiado su forma de importarse y ahora se encuentra dentro del módulo `numpy.exceptions`.
-Como resultado, cuando se produce el error "AttributeError: module 'numpy' has no attribute 'VisibleDeprecationWarning'"
+Como resultado, cuando se utiliza la función 'analyze' se produce el error "AttributeError: module 'numpy' has no attribute 'VisibleDeprecationWarning'"
 
 
 
@@ -28,7 +28,7 @@ category = VisibleDeprecationWarning
 ```
 por:
 ```python
-por category=np.exceptions.VisibleDeprecationWarning
+category=np.exceptions.VisibleDeprecationWarning
 ```
 
 Reiniciar el kernel de Jupyter y ejecutar.
