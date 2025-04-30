@@ -7,21 +7,16 @@ Como resultado, cuando se utiliza la función 'analyze' se produce el error "Att
 
 Para solucionar este problema, se recomienda seguir uno de los siguientes pasos:
 
-1. Hacer un downgrade de Numpy a la versión 1.26.4
 
-En conda:
-```bash
-conda install numpy=1.26.4
-```
+Localizar el archivo graph_numeric.py (está localizado dentro de la carpeta de instalación de Sweetviz) y realizar los siguientes cambios:
 
-
-2. Localizar el archivo graph_numeric.py (está localizado dentro de la carpeta de instalación de Sweetviz) y realizar los siguientes cambios:
+1. Importar la siguiente librería al inicio del archivo:
 
 ```python
 from numpy.exceptions import VisibleDeprecationWarning
 ```
 
-En las líneas 71 y 74, cambiar 
+2. En las líneas 71 y 74, cambiar 
 
 ```python
 category = VisibleDeprecationWarning 
@@ -31,4 +26,10 @@ por:
 category=np.exceptions.VisibleDeprecationWarning
 ```
 
-Reiniciar el kernel de Jupyter y ejecutar.
+3. Reiniciar el kernel de Jupyter y ejecutar.
+
+Nota: el archivo graph_numeric.py se encuentra en las siguiente rutas:
+
+
+1) ...miniconda3/envs/add-env/lib/sweetviz/graph_numeric.py
+2) ...pypoetry/virtualenvs/ceia-analisis-de-datos-xxxxxx-<version>/lib/python3.11/site-packages/sweetviz/graph_numeric.py
