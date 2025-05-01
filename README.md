@@ -27,12 +27,12 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td>2️⃣</td>
-        <td>Visualización y exploración de datos</td>
+        <td>Análisis exploratorio de datos (EDA)</td>
         <td><a href=notebooks/clase_02_visualizacion.ipynb>notebook_clase_2</a></td>
     </tr>
     <tr>
         <td rowspan="5">3️⃣</td>
-        <td rowspan="5">Caracterización de variables e imputación de datos faltantes</td>
+        <td rowspan="5">EDA (cont.) y preprocesamiento</td>
         <td><a href=notebooks/clase_03_1_outliers.ipynb>notebook_clase_3_outliers</a></td>
     </tr>
     <tr>
@@ -49,39 +49,48 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td>4️⃣</td>
-        <td>Outliers, discretización y escalamiento</td>
+        <td>Preprocesamiento (cont.) y Feature Engineering</td>
         <td><a href=notebooks/clase_04_outliers_discretizacion_escalamiento.ipynb>notebook_clase_4</a></td>
     </tr>
     <tr>
         <td>5️⃣</td>
-        <td>Ingeniería de features y reducción de dimensionalidad</td>
+        <td>Taller práctico - parte 1</td>
         <td><a href=notebooks/clase_05_reduccion_de_dimensionalidad.ipynb>notebook_clase_5</a></td>
     </tr>
     <tr>
         <td>6️⃣</td>
-        <td>Taller práctico</td>
+        <td>Pruebas estadísticas y reducción de la dimensionalidad</td>
         <td><a href=notebooks/clase_06_taller.ipynb>notebook_clase_6</a></td>
     </tr>
     <tr>
         <td>7️⃣</td>
-        <td>Presentación de trabajos finales</td>
+        <td>Taller práctico - parte 2</td>
         <td>N/A</td>
     </tr>
     <tr>
         <td>8️⃣</td>
         <td>Automatización del análisis de datos</td>
+        <!---
         <td><a href=notebooks/clase_08_reduccion_dimensionalidad.ipynb>notebook_clase_8</a></td>
+        --->
+        <td>A ser agregada</td>
     </tr>
 </table>
 
 
 ## 📅 Fechas importantes
 
+<!---
 * Entrega del trabajo práctico final: **Martes 15 de abril de 2025 (hasta las 23:59 hora de Argentina)**.
 
 * Presentación del trabajo práctico final: **Jueves 17 de abril de 2025**.
 
-* Última clase: **Jueves 24 de abril de 2025**.
+--->
+* Entrega del TP parte 1: **Lunes 2 de junio de 2025 (hasta las 23:59 hora de Argentina)**.
+
+* Entrega del TP parte 2: **Lunes 16 de junio de 2025 (hasta las 23:59 hora de Argentina)**.
+
+* Última clase: **Jueves 19 de junio de 2025**.
 
 
 
