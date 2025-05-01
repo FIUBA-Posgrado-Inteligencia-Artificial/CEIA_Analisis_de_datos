@@ -14,7 +14,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 --->
 
-### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu cohorte, curso y bimestre.
+### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
 ## 📚 Contenido del Curso 
 
