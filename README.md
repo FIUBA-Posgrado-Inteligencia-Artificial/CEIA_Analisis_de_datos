@@ -43,7 +43,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td>2️⃣</td>
-        <td>Análisis exploratorio de datos (EDA)</td>
+        <td>EDA(cont.) y preprocesamiento</td>
     <!---
         <td rowspan="5">3️⃣</td>
         <td rowspan="5">EDA (cont.) y preprocesamiento</td> 
