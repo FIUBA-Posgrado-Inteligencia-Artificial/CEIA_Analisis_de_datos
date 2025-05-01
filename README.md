@@ -10,9 +10,11 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`datasets/`** → Conjunto de datos utilizados en los ejemplos y prácticas.
 - **`recursos/`** → Ejericios, reportes y otros materiales útiles.
 - **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
+ <!---
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
+--->
 
-## 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu cohorte, curso y bimestre.
+### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu cohorte, curso y bimestre.
 
 ## 📚 Contenido del Curso 
 

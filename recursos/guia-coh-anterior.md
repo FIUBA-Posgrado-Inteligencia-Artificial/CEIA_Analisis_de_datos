@@ -68,7 +68,7 @@ Pasos:
 1. Visitá el repositorio:
 https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
 
-2. En la barra de branches (donde dice "main" por defecto), seleccioná la pestaña "Tags".
+2. En el desplegable de las branches (donde dice "main" por defecto), seleccioná la pestaña "Tags".
 
 3. Elegí la etiqueta de tu cohorte (por ejemplo, coh19-b1-2025).
 
