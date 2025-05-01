@@ -14,6 +14,9 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 --->
 
+## Atención! Recordá que las diapositivas de las clases y los enunciados de los TPs se encuentran en el [Campus posgrado de la FIUBA](https://campusposgrado.fi.uba.ar/course/view.php?id=240).
+
+
 ### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
 ## 📚 Contenido del Curso 
