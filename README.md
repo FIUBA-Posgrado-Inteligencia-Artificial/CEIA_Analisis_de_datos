@@ -8,9 +8,11 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 - **`notebooks/`** → Contiene las notebooks con los ejemplos y ejercicios de cada clase.
 - **`datasets/`** → Conjunto de datos utilizados en los ejemplos y prácticas.
-- **`recursos/`** → Artículos, enlaces y materiales de referencia recomendados.
+- **`recursos/`** → Ejericios, reportes y otros materiales útiles.
 - **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
+
+## 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu cohorte, curso y bimestre.
 
 ## 📚 Contenido del Curso 
 
@@ -28,11 +30,17 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td>2️⃣</td>
         <td>Análisis exploratorio de datos (EDA)</td>
+        <!---
         <td><a href=notebooks/clase_02_visualizacion.ipynb>notebook_clase_2</a></td>
+        --->
+        <td>A ser agregada</td>
     </tr>
     <tr>
+        <td>2️⃣</td>
+        <td>Análisis exploratorio de datos (EDA)</td>
+    <!---
         <td rowspan="5">3️⃣</td>
-        <td rowspan="5">EDA (cont.) y preprocesamiento</td>
+        <td rowspan="5">EDA (cont.) y preprocesamiento</td> 
         <td><a href=notebooks/clase_03_1_outliers.ipynb>notebook_clase_3_outliers</a></td>
     </tr>
     <tr>
@@ -46,26 +54,37 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td><a href=notebooks/clase_03_5_normalizacion_estandarizacion.ipynb>notebook_clase_3_desbalance</a></td>
+    --->
+        <td>A ser agregada</td>
     </tr>
     <tr>
         <td>4️⃣</td>
         <td>Preprocesamiento (cont.) y Feature Engineering</td>
+         <!---
         <td><a href=notebooks/clase_04_outliers_discretizacion_escalamiento.ipynb>notebook_clase_4</a></td>
+         --->
+        <td>A ser agregada</td>
     </tr>
     <tr>
         <td>5️⃣</td>
         <td>Taller práctico - parte 1</td>
+        <!---
         <td><a href=notebooks/clase_05_reduccion_de_dimensionalidad.ipynb>notebook_clase_5</a></td>
+         --->
+        <td>A ser agregada</td>
     </tr>
     <tr>
         <td>6️⃣</td>
         <td>Pruebas estadísticas y reducción de la dimensionalidad</td>
+        <!---
         <td><a href=notebooks/clase_06_taller.ipynb>notebook_clase_6</a></td>
+         --->
+        <td>A ser agregada</td>
     </tr>
     <tr>
         <td>7️⃣</td>
         <td>Taller práctico - parte 2</td>
-        <td>N/A</td>
+        <td>A ser agregada</td>
     </tr>
     <tr>
         <td>8️⃣</td>
