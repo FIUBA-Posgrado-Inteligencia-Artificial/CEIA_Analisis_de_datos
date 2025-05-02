@@ -1,10 +1,17 @@
-name: base
+name: add-env
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - conda
-  - python==3.11.11
-  - python.app
-  - dagster=1.9.1
-prefix: /Users/ari/opt/miniconda3
+  - python=3.11
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - bs4
+  - sqlalchemy
+  - missingno
+  - requests
+  - ipykernel
+
