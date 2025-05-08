@@ -36,10 +36,10 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td>2️⃣</td>
         <td>Análisis exploratorio de datos (EDA)</td>
-        <!---
         <td><a href=notebooks/clase_02_visualizacion.ipynb>notebook_clase_2</a></td>
-        --->
+    <!---
         <td>A ser agregada</td>
+     --->
     </tr>
     <tr>
         <td>2️⃣</td>
