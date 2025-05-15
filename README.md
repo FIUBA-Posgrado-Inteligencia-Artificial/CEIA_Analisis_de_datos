@@ -268,5 +268,5 @@ FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 
 ## 📫 Contacto
 
-* [✉️](macroldan@fi.uba.edu.ar) María Carina Roldán 
+* [✉️](macroldan@fi.uba.ar) María Carina Roldán 
 * [✉️](arigarmendia@gmail.com) Ariadna Garmendia
