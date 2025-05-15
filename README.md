@@ -41,17 +41,19 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>A ser agregada</td>
      --->
     </tr>
+    <!---
     <tr>
         <td>2️⃣</td>
         <td>EDA(cont.) y preprocesamiento</td>
-    <!---
-        <td rowspan="5">3️⃣</td>
-        <td rowspan="5">EDA (cont.) y preprocesamiento</td> 
-        <td><a href=notebooks/clase_03_1_outliers.ipynb>notebook_clase_3_outliers</a></td>
+    --->
+        <td rowspan="2">3️⃣</td>
+        <td rowspan="2">EDA (cont.) y preprocesamiento</td> 
+        <td><a href=notebooks/clase_03_outliers.ipynb>notebook_clase_3_outliers</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_03_2_codificacion.ipynb>notebook_clase_3_codificación</a></td>
+        <td><a href=notebooks/clase_03_datos_faltantes.ipynb>notebook_clase_3_datos_faltantes</a></td>
     </tr>
+    <!---
     <tr>
         <td><a href=notebooks/clase_03_3_discretizacion.ipynb>notebook_clase_3_discretización</a></td>
     </tr>
@@ -60,8 +62,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td><a href=notebooks/clase_03_5_normalizacion_estandarizacion.ipynb>notebook_clase_3_desbalance</a></td>
-    --->
         <td>A ser agregada</td>
+    --->
     </tr>
     <tr>
         <td>4️⃣</td>
@@ -102,6 +104,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
 </table>
 
+## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
 
 ## 📅 Fechas importantes
 
