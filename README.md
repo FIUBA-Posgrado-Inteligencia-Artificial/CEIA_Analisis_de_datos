@@ -66,12 +66,21 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     --->
     </tr>
     <tr>
-        <td>4️⃣</td>
-        <td>Preprocesamiento (cont.) y Feature Engineering</td>
-         <!---
-        <td><a href=notebooks/clase_04_outliers_discretizacion_escalamiento.ipynb>notebook_clase_4</a></td>
-         --->
-        <td>A ser agregada</td>
+        <td rowspan="5">4️⃣</td>
+        <td rowspan="5">Preprocesamiento (cont.) y Feature Engineering</td>
+        <td><a href=notebooks/clase_04_codificacion.ipynb>notebook_clase_4_codificación</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_normalizacion_estandarizacion.ipynb>notebook_clase_4_normalización_estandarización</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretización</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_desbalance.ipynb>notebook_clase_4_desbalance</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_nuevos_features.ipynb>notebook_clase_4_nuevos_features</a></td>
     </tr>
     <tr>
         <td>5️⃣</td>
