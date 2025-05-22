@@ -16,3 +16,4 @@ dependencies:
   - ipykernel
   - imbalanced-learn
   - category_encoders
+  - nltk

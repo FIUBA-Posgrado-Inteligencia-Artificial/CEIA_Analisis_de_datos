@@ -9,7 +9,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`notebooks/`** → Contiene las notebooks con los ejemplos y ejercicios de cada clase.
 - **`datasets/`** → Conjunto de datos utilizados en los ejemplos y prácticas.
 - **`recursos/`** → Ejericios, reportes y otros materiales útiles.
-- **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
+- **`scripts/`** → One-offs / no reutilizable.
+- **`utils/`** → Funciones auxiliares utilizadas en las notebooks.
  <!---
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 --->
@@ -66,8 +67,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     --->
     </tr>
     <tr>
-        <td rowspan="5">4️⃣</td>
-        <td rowspan="5">Preprocesamiento (cont.) y Feature Engineering</td>
+        <td rowspan="4">4️⃣</td>
+        <td rowspan="4">Preprocesamiento (cont.) y Feature Engineering</td>
         <td><a href=notebooks/clase_04_codificacion.ipynb>notebook_clase_4_codificación</a></td>
     </tr>
     <tr>
@@ -78,9 +79,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td><a href=notebooks/clase_04_desbalance.ipynb>notebook_clase_4_desbalance</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_04_nuevos_features.ipynb>notebook_clase_4_nuevos_features</a></td>
     </tr>
     <tr>
         <td>5️⃣</td>
