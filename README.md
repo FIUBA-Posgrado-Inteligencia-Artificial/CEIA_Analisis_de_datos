@@ -9,7 +9,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`notebooks/`** → Contiene las notebooks con los ejemplos y ejercicios de cada clase.
 - **`datasets/`** → Conjunto de datos utilizados en los ejemplos y prácticas.
 - **`recursos/`** → Ejericios, reportes y otros materiales útiles.
-- **`scripts/`** → Código adicional o funciones auxiliares utilizadas en las notebooks.
+- **`scripts/`** → One-offs / no reutilizable.
+- **`utils/`** → Funciones auxiliares utilizadas en las notebooks.
  <!---
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 --->
