@@ -17,3 +17,4 @@ dependencies:
   - imbalanced-learn
   - category_encoders
   - nltk
+  - umap-learn
