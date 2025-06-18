@@ -84,8 +84,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     </tr>
     <tr>
-        <td rowspan="2">6️⃣</td>
-        <td rowspan="2">Reducción de la dimensionalidad</td>
+        <td rowspan="3">6️⃣</td>
+        <td rowspan="3">Reducción de la dimensionalidad</td>
     </tr>   
     <tr>
         <td><a href=notebooks/clase_06_seleccion_features.ipynb>notebook_clase_6_seleccion_features</a></td>
@@ -100,8 +100,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     </tr>
     <tr>
-        <td rowspan="6">8️⃣</td>
-        <td rowspan="6">EDA de datos no estructurados y automatización del análisis de datos</td>
+        <td rowspan="7">8️⃣</td>
+        <td rowspan="7">EDA de datos no estructurados y automatización del análisis de datos</td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_08_EDA_audio.ipynb>notebook_clase_8_EDA_audio</a></td>
