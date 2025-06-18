@@ -54,17 +54,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_03_datos_faltantes.ipynb>notebook_clase_3_datos_faltantes</a></td>
     </tr>
-    <!---
-    <tr>
-        <td><a href=notebooks/clase_03_3_discretizacion.ipynb>notebook_clase_3_discretización</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_03_4_desbalance.ipynb>notebook_clase_3_desbalance</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_03_5_normalizacion_estandarizacion.ipynb>notebook_clase_3_desbalance</a></td>
-        <td>A ser agregada</td>
-    --->
     </tr>
     <tr>
         <td rowspan="4">4️⃣</td>
@@ -81,33 +70,56 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_04_desbalance.ipynb>notebook_clase_4_desbalance</a></td>
     </tr>
     <tr>
-        <td>5️⃣</td>
-        <td>Taller práctico - parte 1</td>
-        <!---
-        <td><a href=notebooks/clase_05_reduccion_de_dimensionalidad.ipynb>notebook_clase_5</a></td>
-         --->
-        <td>A ser agregada</td>
+        <td rowspan="4">5️⃣</td>
+        <td rowspan="4">Taller práctico - parte 1</td>
     </tr>
     <tr>
-        <td>6️⃣</td>
-        <td>Pruebas estadísticas y reducción de la dimensionalidad</td>
-        <!---
-        <td><a href=notebooks/clase_06_taller.ipynb>notebook_clase_6</a></td>
-         --->
-        <td>A ser agregada</td>
+        <td><a href=notebooks/clase_05_taller_parte_1_EDA.ipynb>notebook_clase_5_EDA</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_05_taller_parte_1_faltantes_outliers.ipynb>notebook_clase_5_faltantes_outliers</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_05_taller_parte_1_preguntas.ipynb>notebook_clase_5_preguntas</a></td>
+    </tr>
+    </tr>
+    <tr>
+        <td rowspan="2">6️⃣</td>
+        <td rowspan="2">Reducción de la dimensionalidad</td>
+    </tr>   
+    <tr>
+        <td><a href=notebooks/clase_06_seleccion_features.ipynb>notebook_clase_6_seleccion_features</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_extraccion_features.ipynb>notebook_clase_6_extraccion_features</a></td>
     </tr>
     <tr>
         <td>7️⃣</td>
         <td>Taller práctico - parte 2</td>
-        <td>A ser agregada</td>
+        <td><a href=notebooks/clase_07_taller_parte_2_full.ipynb>notebook_clase_7_taller_parte_2</a></td>
+    </tr>
     </tr>
     <tr>
-        <td>8️⃣</td>
-        <td>Automatización del análisis de datos</td>
-        <!---
-        <td><a href=notebooks/clase_08_reduccion_dimensionalidad.ipynb>notebook_clase_8</a></td>
-        --->
-        <td>A ser agregada</td>
+        <td rowspan="6">8️⃣</td>
+        <td rowspan="6">EDA de datos no estructurados y automatización del análisis de datos</td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_EDA_audio.ipynb>notebook_clase_8_EDA_audio</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_EDA_texto.ipynb>notebook_clase_8_EDA_texto</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_EDA_imagenes.ipynb>notebook_clase_8_EDA_imagenes</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_PCA_imagenes.ipynb>notebook_clase_8_PCA_imagenes</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_preproc_EDA_automatico.ipynb>notebook_clase_8_EDA_automatico</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_preproc_dimensionalidad.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
 </table>
 
