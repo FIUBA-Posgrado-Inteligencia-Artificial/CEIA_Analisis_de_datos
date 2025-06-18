@@ -34,19 +34,14 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
+    </tr>
     <tr>
         <td>2️⃣</td>
         <td>Análisis exploratorio de datos (EDA)</td>
         <td><a href=notebooks/clase_02_intro_EDA.ipynb>notebook_clase_2</a></td>
-    <!---
-        <td>A ser agregada</td>
-     --->
     </tr>
-    <!---
+    </tr>
     <tr>
-        <td>2️⃣</td>
-        <td>EDA(cont.) y preprocesamiento</td>
-    --->
         <td rowspan="2">3️⃣</td>
         <td rowspan="2">EDA (cont.) y preprocesamiento</td> 
         <td><a href=notebooks/clase_03_outliers.ipynb>notebook_clase_3_outliers</a></td>
@@ -68,6 +63,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td><a href=notebooks/clase_04_desbalance.ipynb>notebook_clase_4_desbalance</a></td>
+    </tr>
     </tr>
     <tr>
         <td rowspan="4">5️⃣</td>
