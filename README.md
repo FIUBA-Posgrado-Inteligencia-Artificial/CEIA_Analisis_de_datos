@@ -115,7 +115,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_08_preproc_EDA_automatico.ipynb>notebook_clase_8_EDA_automatico</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_08_preproc_dimensionalidad.ipynb>notebook_clase_8_preproc_automatico</a></td>
+        <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
 </table>
 
