@@ -172,7 +172,7 @@ jupyter notebook
 
 ### **🔵 Opción 2: Usar un env de Poetry**
 
-Este proyecto también permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir de los archivos `pyproject.toml` y `poetry.lock` proporcionados.
+Este proyecto también permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir del archivo `pyproject.toml` proporcionado.
 
 #### Prerrequisitos 
  * Poetry : [Instrucciones de instalación](https://python-poetry.org/docs/#installing-with-the-official-installer)
@@ -201,9 +201,8 @@ poetry env use "py -3.11"
 
 #### 3. Instalar dependencias (Linux/MacOS/Windows):
 ```bash
-poetry install --no-root 
+poetry install
 ```
-Nota: --no-root evita la instalación como package que no es necesaria aquí.
 
 #### 4. Verificar que el environment se instaló correctamente:
 
