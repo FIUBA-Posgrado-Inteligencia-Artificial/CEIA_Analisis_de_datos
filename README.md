@@ -21,7 +21,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 ### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
-## 📚 Contenido del Curso 
+## 📚 Contenido del Curso
+#### Atención! Las notebooks se agregan antes de cada clase
 
 <table>
     <tr>
@@ -34,6 +35,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
+    <!--
     </tr>
     <tr>
         <td>2️⃣</td>
@@ -117,6 +119,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
+    -->
 </table>
 
 ## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
@@ -129,11 +132,11 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 * Presentación del trabajo práctico final: **Jueves 17 de abril de 2025**.
 
 --->
-* Entrega del TP parte 1: **Lunes 2 de junio de 2025 (hasta las 23:59 hora de Argentina)**.
+* Entrega del TP parte 1: **Lunes 14 de julio de 2025 (hasta las 23:59 hora de Argentina)**.
 
-* Entrega del TP parte 2: **Lunes 16 de junio de 2025 (hasta las 23:59 hora de Argentina)**.
+* Entrega del TP parte 2: **Lunes 18 de agosto de 2025 (hasta las 23:59 hora de Argentina)**.
 
-* Última clase: **Jueves 19 de junio de 2025**.
+* Última clase: **Jueves 21 de agosto de 2025**.
 
 
 
