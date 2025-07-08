@@ -45,13 +45,14 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_02_analisis_faltantes_outliers.ipynb>notebook_clase_2_faltantes_outliers</a></td>
     </tr>
     </tr>
-    <!--
     </tr>
     <tr>
         <td rowspan="2">3️⃣</td>
-        <td rowspan="2">EDA (cont.) y preprocesamiento</td> 
-        <td><a href=notebooks/clase_03_outliers.ipynb>notebook_clase_3_outliers</a></td>
+        <td rowspan="2">Taller práctico parte 1 (EDA)</td> 
+        <td><a href=notebooks/clase_03_taller_parte_1_EDA.ipynb>notebook_clase_3_taller_parte_1</a></td>
     </tr>
+    </tr>
+    <!--
     <tr>
         <td><a href=notebooks/clase_03_datos_faltantes.ipynb>notebook_clase_3_datos_faltantes</a></td>
     </tr>
