@@ -137,7 +137,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 * Presentación del trabajo práctico final: **Jueves 17 de abril de 2025**.
 
 --->
-* Entrega del TP parte 1: **Lunes 14 de julio de 2025 (hasta las 23:59 hora de Argentina)**.
+* Entrega del TP parte 1: **Miércoles 16 de julio de 2025 (hasta las 23:59 hora de Argentina)**.
 
 * Entrega del TP parte 2: **Lunes 18 de agosto de 2025 (hasta las 23:59 hora de Argentina)**.
 
