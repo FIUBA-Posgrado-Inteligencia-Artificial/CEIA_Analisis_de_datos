@@ -35,39 +35,31 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
-    </tr>
     <tr>
         <td rowspan="2">2️⃣</td>
-        <td rowspan="2">Análisis exploratorio de datos (EDA). Análisis de datos faltantes y outliers)</td>
+        <td rowspan="2">Análisis exploratorio de datos (EDA). Análisis de datos faltantes y outliers</td>
         <td><a href=notebooks/clase_02_intro_EDA.ipynb>notebook_clase_2_EDA</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_02_analisis_faltantes_outliers.ipynb>notebook_clase_2_faltantes_outliers</a></td>
     </tr>
-    </tr>
-    </tr>
     <tr>
-        <td rowspan="2">3️⃣</td>
-        <td rowspan="2">Taller práctico parte 1 (EDA)</td> 
+        <td>3️⃣</td>
+        <td>Taller práctico parte 1 (EDA)</td> 
         <td><a href=notebooks/clase_03_taller_parte_1_EDA.ipynb>notebook_clase_3_taller_parte_1</a></td>
     </tr>
-    </tr>
-    <!--
     <tr>
-        <td><a href=notebooks/clase_03_datos_faltantes.ipynb>notebook_clase_3_datos_faltantes</a></td>
-    </tr>
-    </tr>
-    <tr>
-        <td rowspan="4">4️⃣</td>
-        <td rowspan="4">Preprocesamiento (cont.) y Feature Engineering</td>
-        <td><a href=notebooks/clase_04_codificacion.ipynb>notebook_clase_4_codificación</a></td>
+        <td rowspan="3">4️⃣</td>
+        <td rowspan="3">Preprocesamiento y limpieza de datos</td>
+        <td><a href=notebooks/clase_04_tratamiento_datos_faltantes.ipynb>notebook_clase_4_tratamiento_faltantes</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_04_normalizacion_estandarizacion.ipynb>notebook_clase_4_normalización_estandarización</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretización</a></td>
+        <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>notebook_clase_4_tratamiento_outliers</a></td>
     </tr>
+    <!--
     <tr>
         <td><a href=notebooks/clase_04_desbalance.ipynb>notebook_clase_4_desbalance</a></td>
     </tr>
