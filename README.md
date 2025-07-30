@@ -56,28 +56,22 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_normalizacion_estandarizacion.ipynb>notebook_clase_4_normalización_estandarización</a></td>
     </tr>
-    <tr>
-        <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>notebook_clase_4_tratamiento_outliers</a></td>
-    </tr>
-    <!--
-    <tr>
-        <td><a href=notebooks/clase_04_desbalance.ipynb>notebook_clase_4_desbalance</a></td>
-    </tr>
     </tr>
     <tr>
         <td rowspan="4">5️⃣</td>
-        <td rowspan="4">Taller práctico - parte 1</td>
+        <td rowspan="4">Feature engineering</td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_taller_parte_1_EDA.ipynb>notebook_clase_5_EDA</a></td>
+        <td><a href=notebooks/clase_05_codificacion.ipynb>notebook_clase_5_codificacion</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_taller_parte_1_faltantes_outliers.ipynb>notebook_clase_5_faltantes_outliers</a></td>
+        <td><a href=notebooks/clase_05_discretizacion.ipynb>notebook_clase_5_discretizacion</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_taller_parte_1_preguntas.ipynb>notebook_clase_5_preguntas</a></td>
+        <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
     </tr>
     </tr>
+    <!--
     <tr>
         <td rowspan="3">6️⃣</td>
         <td rowspan="3">Reducción de la dimensionalidad</td>
