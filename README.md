@@ -81,13 +81,13 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_drift.ipynb>notebook_clase_6_drift (bonus)</a></td>
     </tr>
-    <!--
     <tr>
         <td>7️⃣</td>
         <td>Taller práctico - parte 2</td>
-        <td><a href=notebooks/clase_07_taller_parte_2_full.ipynb>notebook_clase_7_taller_parte_2</a></td>
+        <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2</a></td>
     </tr>
     </tr>
+    <!---
     <tr>
         <td rowspan="7">8️⃣</td>
         <td rowspan="7">EDA de datos no estructurados y automatización del análisis de datos</td>
