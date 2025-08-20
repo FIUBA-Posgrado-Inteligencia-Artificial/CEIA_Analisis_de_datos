@@ -87,7 +87,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2</a></td>
     </tr>
     </tr>
-    <!---
     <tr>
         <td rowspan="7">8️⃣</td>
         <td rowspan="7">EDA de datos no estructurados y automatización del análisis de datos</td>
@@ -110,7 +109,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
-    -->
 </table>
 
 ## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
