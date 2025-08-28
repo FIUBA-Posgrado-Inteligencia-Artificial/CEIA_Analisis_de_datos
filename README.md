@@ -21,7 +21,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 ### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
-## 📚 Contenido del Curso
+## 📝 Contenido del Curso
 #### Atención! Las notebooks se agregan antes de cada clase
 
 <table>
@@ -127,7 +127,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 
 En esta sección se explican los pasos para utilizar este repositorio.
 
-### **🔵 Opción 1: Usar un env de Conda**
+### **➡️ Opción 1: Usar un env de Conda**
 
 #### Prerrequisitos 
 * Anaconda o miniconda
@@ -153,7 +153,7 @@ conda activate add-env
 jupyter notebook
 ```
 
-### **🔵 Opción 2: Usar un env de Poetry**
+### **➡️ Opción 2: Usar un env de Poetry**
 
 Este proyecto también permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir del archivo `pyproject.toml` proporcionado.
 
@@ -248,7 +248,7 @@ Una vez abierto Jupyter, ir a **Kernel** → **Change Kernel** y seleccionar **"
 
 
 
-### **🔵 Opción 3: Usar Google Colab**
+### **➡️ Opción 3: Usar Google Colab**
 
 Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza Python 3.11 y no debería haber inconvenientes para ejecutar las notebooks de la materia con esta herramienta. Pasos a seguir:
 
