@@ -35,6 +35,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
+    <!---
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA). Análisis de datos faltantes y outliers</td>
@@ -109,23 +110,16 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
+    --->
 </table>
 
 ## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
 
 ## 📅 Fechas importantes
 
-<!---
-* Entrega del trabajo práctico final: **Martes 15 de abril de 2025 (hasta las 23:59 hora de Argentina)**.
+* Plazo para compartir las diapositivas del trabajo final: **lunes 13/10/25 23:59 ART**
 
-* Presentación del trabajo práctico final: **Jueves 17 de abril de 2025**.
-
---->
-* Entrega del TP parte 1: **Miércoles 16 de julio de 2025 (hasta las 23:59 hora de Argentina)**.
-
-* Entrega del TP parte 2: **Lunes 18 de agosto de 2025 (hasta las 23:59 hora de Argentina)**.
-
-* Última clase: **Jueves 21 de agosto de 2025**.
+* Presentación del trabajo práctico final (última clase): **jueves 16 de octubre de 2025**.
 
 
 
