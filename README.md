@@ -43,23 +43,32 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_02_analisis_faltantes_outliers.ipynb>notebook_clase_2_faltantes_outliers</a></td>
     </tr>
-    <!---
     <tr>
-        <td>3️⃣</td>
-        <td>Taller práctico parte 1 (EDA)</td> 
-        <td><a href=notebooks/clase_03_taller_parte_1_EDA.ipynb>notebook_clase_3_taller_parte_1</a></td>
+        <td rowspan="3">3️⃣</td>
+        <td rowspan="3">Taller práctico parte 1 (EDA)</td> 
+        <td><a href=notebooks/salas-1y2_taller.ipynb>enunciado-salas-1y2</a></td>
     </tr>
     <tr>
-        <td rowspan="3">4️⃣</td>
-        <td rowspan="3">Preprocesamiento y limpieza de datos</td>
-        <td><a href=notebooks/clase_04_tratamiento_datos_faltantes.ipynb>notebook_clase_4_tratamiento_faltantes</a></td>
+        <td><a href=notebooks/salas-3y4_taller.ipynb>enunciado-salas-3y4</a></td>
+    </tr>
+        <tr>
+        <td><a href=notebooks/salas-5y6_taller.ipynb>enunciado-salas-5y6</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_04_normalizacion_estandarizacion.ipynb>notebook_clase_4_normalización_estandarización</a></td>
+        <td rowspan="4">4️⃣</td>
+        <td rowspan="4">Preprocesamiento y limpieza de datos</td>
+        <td><a href=notebooks/codificacion.ipynb>notebook_clase_4_codificacion</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_ntratamiento_datos_faltantes.ipynb>notebook_clase_4_tratamiento_datos_faltantes</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>notebook_clase_4_tratamiento_outliers</a></td>
     </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretizacion</a></td>
+    </tr>
+    <!----
     <tr>
         <td rowspan="3">5️⃣</td>
         <td rowspan="3">Feature engineering</td>
