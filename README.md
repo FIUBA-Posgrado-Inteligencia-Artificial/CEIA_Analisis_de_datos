@@ -46,13 +46,13 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td rowspan="3">3️⃣</td>
         <td rowspan="3">Taller práctico parte 1 (EDA)</td> 
-        <td><a href=notebooks/salas-1y2_taller.ipynb>enunciado-salas-1y2</a></td>
+        <td><a href=recursos/salas-1y2_taller.ipynb>enunciado-salas-1y2</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/salas-3y4_taller.ipynb>enunciado-salas-3y4</a></td>
+        <td><a href=recursos/salas-3y4_taller.ipynb>enunciado-salas-3y4</a></td>
     </tr>
         <tr>
-        <td><a href=notebooks/salas-5y6_taller.ipynb>enunciado-salas-5y6</a></td>
+        <td><a href=recursos/salas-5y6_taller.ipynb>enunciado-salas-5y6</a></td>
     </tr>
     <tr>
         <td rowspan="4">4️⃣</td>
