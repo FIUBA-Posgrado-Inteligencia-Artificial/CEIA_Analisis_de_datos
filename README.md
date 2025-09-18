@@ -57,10 +57,10 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
-        <td><a href=notebooks/codificacion.ipynb>notebook_clase_4_codificacion</a></td>
+        <td><a href=notebooks/clase_04_codificacion.ipynb>notebook_clase_4_codificacion</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_04_ntratamiento_datos_faltantes.ipynb>notebook_clase_4_tratamiento_datos_faltantes</a></td>
+        <td><a href=notebooks/clase_04_tratamiento_datos_faltantes.ipynb>notebook_clase_4_tratamiento_datos_faltantes</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>notebook_clase_4_tratamiento_outliers</a></td>
