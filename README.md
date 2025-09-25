@@ -70,7 +70,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td rowspan="4">5️⃣</td>
-        <td rowspan="4">Feature engineering</td>
+        <td rowspan="4">Procesamiento de datos (continuación)</td>
         <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>notebook_clase_5_normalizacion_estandarizacion</a></td>
     </tr>
     <tr>
