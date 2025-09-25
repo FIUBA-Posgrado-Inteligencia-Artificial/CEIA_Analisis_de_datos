@@ -68,18 +68,21 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretizacion</a></td>
     </tr>
-    <!----
     <tr>
-        <td rowspan="3">5️⃣</td>
-        <td rowspan="3">Feature engineering</td>
-        <td><a href=notebooks/clase_05_codificacion.ipynb>notebook_clase_5_codificacion</a></td>
+        <td rowspan="4">5️⃣</td>
+        <td rowspan="4">Feature engineering</td>
+        <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>notebook_clase_5_normalizacion_estandarizacion</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_discretizacion.ipynb>notebook_clase_5_discretizacion</a><td>
+        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>notebook_clase_5_tratamiento_avanzado_faltantes</a><td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_05_tratamiento_outliers_adv.ipynb>notebook_clase_5_tratamiento_avanzado_outliers</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
     </tr>
+    <!----
     <tr>
         <td rowspan="3">6️⃣</td>
         <td rowspan="3">Reducción de la dimensionalidad</td>
