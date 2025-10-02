@@ -82,18 +82,33 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
     </tr>
-    <!----
     <tr>
-        <td rowspan="3">6️⃣</td>
-        <td rowspan="3">Reducción de la dimensionalidad</td>
+        <td rowspan="8">6️⃣</td>
+        <td rowspan="8">Reducción de la dimensionalidad + Bonus</td>
         <td><a href=notebooks/clase_06_seleccion_features.ipynb>notebook_clase_6_seleccion_features</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_extraccion_features.ipynb>notebook_clase_6_extraccion_features</a></td>
+        <td><a href=notebooks/clase_06_comparacion_tecnicas_seleccion.ipynb>notebook_clase_6_comparacion_tecnicas_seleccion</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_drift.ipynb>notebook_clase_6_drift (bonus)</a></td>
+        <td><a href=notebooks/clase_06_extraccion_features_parte_1.ipynb>notebook_clase_6_extraccion_features_parte1</a></td>
     </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_extraccion_features_parte_2.ipynb>notebook_clase_6_extraccion_features_parte2</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_EDA_audio.ipynb>notebook_clase_6_bonus_audio</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_EDA_texto.ipynb>notebook_clase_6_bonus_texto</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_EDA_imagenes.ipynb>notebook_clase_6_bonus_imagenes</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
+    </tr>
+    <!----
     <tr>
         <td>7️⃣</td>
         <td>Taller práctico - parte 2</td>
