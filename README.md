@@ -116,7 +116,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     <tr>
         <td rowspan="3">8️⃣</td>
-        <td rowspan="3">EDA de datos no estructurados y automatización del análisis de datos</td>
+        <td rowspan="3">Bonus - Automatización del EDA</td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_08_preproc_EDA_automatico.ipynb>notebook_clase_8_EDA_automatico</a></td>
