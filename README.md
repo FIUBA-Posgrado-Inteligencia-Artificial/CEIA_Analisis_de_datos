@@ -108,28 +108,15 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
     </tr>
-    <!----
     <tr>
         <td>7️⃣</td>
         <td>Taller práctico - parte 2</td>
-        <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2</a></td>
+        <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2_completa</a></td>
     </tr>
     </tr>
     <tr>
-        <td rowspan="7">8️⃣</td>
-        <td rowspan="7">EDA de datos no estructurados y automatización del análisis de datos</td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_08_EDA_audio.ipynb>notebook_clase_8_EDA_audio</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_08_EDA_texto.ipynb>notebook_clase_8_EDA_texto</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_08_EDA_imagenes.ipynb>notebook_clase_8_EDA_imagenes</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_08_PCA_imagenes.ipynb>notebook_clase_8_PCA_imagenes</a></td>
+        <td rowspan="3">8️⃣</td>
+        <td rowspan="3">EDA de datos no estructurados y automatización del análisis de datos</td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_08_preproc_EDA_automatico.ipynb>notebook_clase_8_EDA_automatico</a></td>
@@ -137,7 +124,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
-    --->
 </table>
 
 ## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
