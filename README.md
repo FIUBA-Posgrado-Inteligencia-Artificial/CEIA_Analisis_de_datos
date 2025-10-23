@@ -279,7 +279,7 @@ source .venv/bin/activate
 
 #### B4. Instalar dependencias (Linux/MacOS/Windows):
 ```bash
-uv pip install -e
+uv pip install -e .
 ```
 
 #### B5. Verificar activación:

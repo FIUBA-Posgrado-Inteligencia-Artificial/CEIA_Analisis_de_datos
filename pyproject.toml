@@ -61,6 +61,13 @@ nltk = ">=3.9.1,<4.0.0"
 rasterio = ">=1.4.3,<2.0.0"
 
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = []
 
