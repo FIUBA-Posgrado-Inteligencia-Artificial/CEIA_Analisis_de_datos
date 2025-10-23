@@ -35,6 +35,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA). Análisis de datos faltantes y outliers</td>
@@ -124,6 +125,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
+-->
 </table>
 
 ## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
@@ -166,12 +168,13 @@ conda activate add-env
 jupyter notebook
 ```
 
-### **➡️ Opción 2: Usar un env de Poetry**
+### **➡️ Opción 2: Usar un env de Poetry o UV**
 
-Este proyecto también permite usar Poetry para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir del archivo `pyproject.toml` proporcionado.
+Este proyecto también permite usar Poetry o UV para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir del archivo `pyproject.toml` proporcionado.
 
-#### Prerrequisitos 
- * Poetry : [Instrucciones de instalación](https://python-poetry.org/docs/#installing-with-the-official-installer)
+#### Prerrequisitos
+ * Opción A - Poetry: [Instrucciones de instalación Poetry](https://python-poetry.org/docs/#installing-with-the-official-installer)
+ * Opción B - UV: [Instrucciones de instalación UV](https://docs.astral.sh/uv/getting-started/installation/)
  * Python 3.11 o 3.12
  * Git
 
@@ -182,25 +185,28 @@ git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisi
 cd CEIA_Analisis_de_datos
 ```
 
-#### 2. Crear el environment (ejemplo con Python 3.11, ajustar a 3.12 de ser necesario):
+---
+### Opción A - Poetry
+#### A2. Crear el environment (ejemplo con Python 3.11, ajustar a 3.12 de ser necesario):
 
 * macOS/Linux
 
 ```bash
 poetry env use python3.11  
 ```
+
 * Windows
 
 ```bash
-poetry env use "py -3.11" 
+poetry env use py -3.11 
 ```
 
-#### 3. Instalar dependencias (Linux/MacOS/Windows):
+#### A3. Instalar dependencias (Linux/MacOS/Windows):
 ```bash
-poetry install
+poetry install --no-root
 ```
 
-#### 4. Verificar que el environment se instaló correctamente:
+#### A4. Verificar que el environment se instaló correctamente:
 
 ```bash
 poetry env list
@@ -213,53 +219,90 @@ poetry env info
 > Este comando muestra detalles tales como la versión de Python y el path (ej., `/Users/<username>/Library/Caches/pypoetry/virtualenvs/...` en macOS o `C:\Users\<username>\AppData\Local\pypoetry\...` en Windows).
 
 
-#### 5. Activar el environment:
+#### A5. Activar el environment:
 
-* macOS/Linux (zsh/bash):
-
-```bash
-eval "$(poetry env activate)" 
-```
-
-* Windows (PowerShell/CMD):
+* macOS/Linux (zsh/bash) y Windows (PowerShell/CMD):
 
 ```bash
-Invoke-Expression (poetry env activate)
+poetry shell 
 ```
 
 > Después de ejecutar el comando, el nombre del environment debería aparecer en el prompt de la terminal entre paréntesis (ej., `ceia-analisis-de-datos-py3.11`).
 
-#### 6. Verificar activación:
+#### A6. Verificar activación:
 
 ```bash
 python --version
 ```
 > Debería mostrar Python 3.11.X o 3.12.X.
 
-
+Luego, ejecutar:
 ```bash
 which python  # macOS/Linux
 where python  # Windows
 ```
-> Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/.../bin/python o C:\Users\<username>\...\Scripts\python.exe).
+> Debería apuntar al Pyhton del env. de Poetry (ej., /Users/<username>/Library/Caches/pypoetry/virtualenvs/ceia-analisis-de-datos-xxxxx-py3.11/bin/python o C:\Users\<username>\AppData\Local\pypoetry\Cache\virtualenvs\ceia-analisis-de-datos-xxxxx-py3.11\Scripts\python.exe).
 
+**Saltar al paso [A7/B6](#a7b6-registrar-el-environment-en-jupyter) para registrar el environment en Jupyter.**
 
-#### 7. Registrar el environment en Jupyter:
+---
+### Opción B - UV
+#### B2. Crear el environment (ejemplo con Python 3.11, ajustar a 3.12 de ser necesario):
+
+* macOS/Linux/Windows
 
 ```bash
-poetry run python -m ipykernel install --user --name=ceia-analisis-de-datos --display-name "Python (CEIA)"
+uv venv --python 3.11 
+```
+#### B3. Activar el environment:
+
+* macOS/Linux (zsh/bash):
+```bash
+source .venv/bin/activate 
+```
+* Windows (PowerShell):
+```bash
+.venv\Scripts\activate
+```
+* Windows (CMD):
+```bash
+.venv\Scripts\activate.bat
 ```
 
+#### B4. Instalar dependencias (Linux/MacOS/Windows):
+```bash
+uv pip install -e
+```
 
-#### 8. Abrir Jupyter y seleccionar el kernel correcto:
+#### B5. Verificar activación:
+
+```bash
+python --version
+```
+> Debería mostrar Python 3.11.X o 3.12.X.
+
+Luego, ejecutar:
+```bash
+which python  # macOS/Linux
+where python  # Windows
+```
+> Debería apuntar al Pyhton del env. de UV (ej., /path/to/CEIA_Analisis_de_datos/.venv/bin/python en macOS/Linux o C: C:\path\to\CEIA_Analisis_de_datos\.venv\Scripts\python.exe en Windows).
+
+Continuar al paso [A7/B6](#a7b6-registrar-el-environment-en-jupyter) para registrar el environment en Jupyter.
+
+---
+#### A7/B6. Registrar el environment en Jupyter:
+
+```bash
+python -m ipykernel install --user --name=ceia-analisis-de-datos --display-name "Python (CEIA)"
+```
+
+#### A8/B7. Abrir Jupyter y seleccionar el kernel correcto:
 
 ```bash
 jupyter notebook
 ```
 Una vez abierto Jupyter, ir a **Kernel** → **Change Kernel** y seleccionar **"Python (CEIA)"**.
-
-
-
 
 ### **➡️ Opción 3: Usar Google Colab**
 
