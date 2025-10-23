@@ -175,7 +175,7 @@ conda activate add-env
 ```bash
 jupyter notebook
 ```
-
+---
 ### **➡️ Opción 2: Usar un env de Poetry o UV**
 
 Este proyecto también permite usar Poetry o UV para manejo de dependencias. Seguir los pasos detallados a continuación para crear un environment a partir del archivo `pyproject.toml` proporcionado.
@@ -312,6 +312,7 @@ jupyter notebook
 ```
 Una vez abierto Jupyter, ir a **Kernel** → **Change Kernel** y seleccionar **"Python (CEIA)"**.
 
+---
 ### **➡️ Opción 3: Usar Google Colab**
 
 Al momento de la actualización de este repositorio (Marzo 2025) Colab utiliza Python 3.11 y no debería haber inconvenientes para ejecutar las notebooks de la materia con esta herramienta. Pasos a seguir:
@@ -329,7 +330,7 @@ FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 4. Asegurarse que en **Repository** aparezca el nombre correcto (`FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos`) y la branch sea **main**. Hacer click en la notebook deseada para abrir.
 
 
-
+---
 ## 📫 Contacto
 
 * [✉️](macroldan@fi.uba.ar) María Carina Roldán 
