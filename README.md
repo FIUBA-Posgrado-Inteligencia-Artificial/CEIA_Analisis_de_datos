@@ -4,6 +4,7 @@
 
 Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrarán los materiales de clase, notebooks, datasets y recursos adicionales.
 
+---
 ## 📂 Estructura del Repositorio
 
 - **`notebooks/`** → Contiene las notebooks con los ejemplos y ejercicios de cada clase.
@@ -15,12 +16,15 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 - **`imagenes/`** → Gráficos, diagramas y visualizaciones relevantes para el curso.
 --->
 
-
+---
 ### ⚠️ Recordá que las diapositivas de las clases y los enunciados de los TPs se encuentran en el [Campus posgrado de la FIUBA](https://campusposgrado.fi.uba.ar/course/view.php?id=240).
 
 
+---
 ### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
+
+---
 ## 📝 Contenido del Curso
 #### Atención! Las notebooks se agregan antes de cada clase
 
@@ -128,16 +132,20 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 -->
 </table>
 
+---
 ## 📚 Bibliografía recomendada [aquí](recursos/bibliografia-recomendada.md).
 
+---
 ## 📅 Fechas importantes
 
-* Plazo para compartir las diapositivas del trabajo final: **lunes 13/10/25 23:59 ART**
+* Plazo para compartir las diapositivas del trabajo final: **martes 09/12/25 23:59 ART**
 
-* Presentación del trabajo práctico final (última clase): **jueves 16 de octubre de 2025**.
+* Presentación del trabajo práctico final:
+    * Sesión 1: **jueves 11 de diciembre de 2025**.
+    * Sesión 2: **lunes 15 de diciembre de 2025**.
 
-
-
+---
+---
 ## ⚙️ Instalación y Configuración del Entorno
 
 En esta sección se explican los pasos para utilizar este repositorio.
@@ -178,7 +186,7 @@ Este proyecto también permite usar Poetry o UV para manejo de dependencias. Seg
  * Python 3.11 o 3.12
  * Git
 
-#### 1. Clonar el repo:
+#### A1/B1. Clonar el repo:
 
 ```bash
 git clone https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos.git
