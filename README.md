@@ -39,7 +39,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA). Análisis de datos faltantes y outliers</td>
@@ -51,14 +50,15 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td rowspan="3">3️⃣</td>
         <td rowspan="3">Taller práctico parte 1 (EDA)</td> 
-        <td><a href=recursos/salas-1y2_taller.ipynb>enunciado-salas-1y2</a></td>
+        <td><a href=recursos/salas-1-2-3-taller.ipynb>enunciado-salas-1-2-3</a></td>
     </tr>
     <tr>
-        <td><a href=recursos/salas-3y4_taller.ipynb>enunciado-salas-3y4</a></td>
+        <td><a href=recursos/salas-4-5-6-taller.ipynb>enunciado-salas-4-5-6</a></td>
     </tr>
         <tr>
-        <td><a href=recursos/salas-5y6_taller.ipynb>enunciado-salas-5y6</a></td>
+        <td><a href=recursos/salas-7-8-9-taller.ipynb>enunciado-salas-7-8-9</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
