@@ -48,8 +48,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_02_analisis_faltantes_outliers.ipynb>notebook_clase_2_faltantes_outliers</a></td>
     </tr>
     <tr>
-        <td rowspan="3">3️⃣</td>
-        <td rowspan="3">Taller práctico parte 1 (EDA)</td> 
+        <td rowspan="4">3️⃣</td>
+        <td rowspan="4">Taller práctico parte 1 (EDA)</td> 
         <td><a href=recursos/salas-1-2-3-taller.ipynb>enunciado-salas-1-2-3</a></td>
     </tr>
     <tr>
@@ -57,6 +57,10 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
         <tr>
         <td><a href=recursos/salas-7-8-9-taller.ipynb>enunciado-salas-7-8-9</a></td>
+    </tr>
+    </tr>
+    <tr>
+        <td><a href=recursos/clase_03_taller1_resuelta.ipynb>actividad-resuelta</a></td>
     </tr>
     <!--
     <tr>
