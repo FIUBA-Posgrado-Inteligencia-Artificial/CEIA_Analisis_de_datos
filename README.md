@@ -76,7 +76,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretizacion</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="4">5️⃣</td>
         <td rowspan="4">Procesamiento de datos (continuación)</td>
@@ -91,6 +90,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="8">6️⃣</td>
         <td rowspan="8">Reducción de la dimensionalidad + Bonus</td>
