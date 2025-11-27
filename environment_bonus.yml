@@ -1,4 +1,4 @@
-name: add-aml
+name: add-bonus
 channels:
   - conda-forge
   - defaults

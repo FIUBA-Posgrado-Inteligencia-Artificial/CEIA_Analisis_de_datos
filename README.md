@@ -90,14 +90,13 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="8">6️⃣</td>
         <td rowspan="8">Reducción de la dimensionalidad + Bonus</td>
         <td><a href=notebooks/clase_06_seleccion_features.ipynb>notebook_clase_6_seleccion_features</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_comparacion_tecnicas_seleccion.ipynb>notebook_clase_6_comparacion_tecnicas_seleccion</a></td>
+        <td><a href=notebooks/clase_06_correlacion.ipynb>notebook_clase_6_correlacion</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_06_extraccion_features_parte_1.ipynb>notebook_clase_6_extraccion_features_parte1</a></td>
@@ -117,6 +116,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
     </tr>
+    <!--
     <tr>
         <td>7️⃣</td>
         <td>Taller práctico - parte 2</td>
