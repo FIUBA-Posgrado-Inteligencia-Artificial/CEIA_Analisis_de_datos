@@ -116,12 +116,21 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
     </tr>
+    <tr>
+        <td rowspan="4">7️⃣</td>
+        <td rowspan="4">Taller práctico - parte 2</td>
     <!--
     <tr>
-        <td>7️⃣</td>
-        <td>Taller práctico - parte 2</td>
         <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2_completa</a></td>
     </tr>
+    -->
+    <tr>
+        <td><a href=notebooks/clase_07_EDA_automatico.ipynb>notebook_clase_7_bonus_EDA_automatico</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_07_preproc_automatico.ipynb>notebook_clase_7_bonus_preproc_automatico</a></td>
+    </tr>
+    <!--
     </tr>
     <tr>
         <td rowspan="3">8️⃣</td>
@@ -133,7 +142,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
--->
+    -->
 </table>
 
 ---
