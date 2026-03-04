@@ -39,6 +39,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
+<!--
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA). Análisis de datos faltantes y outliers</td>
@@ -119,18 +120,15 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td rowspan="4">7️⃣</td>
         <td rowspan="4">Taller práctico - parte 2</td>
-    <!--
     <tr>
         <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2_completa</a></td>
     </tr>
-    -->
     <tr>
         <td><a href=notebooks/clase_07_EDA_automatico.ipynb>notebook_clase_7_bonus_EDA_automatico</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_07_preproc_automatico.ipynb>notebook_clase_7_bonus_preproc_automatico</a></td>
     </tr>
-    <!--
     </tr>
     <tr>
         <td rowspan="3">8️⃣</td>
@@ -151,11 +149,12 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 ---
 ## 📅 Fechas importantes
 
+<!--
 * Plazo para compartir las diapositivas del trabajo final: **martes 09/12/25 23:59 ART**
-
+-->
 * Presentación del trabajo práctico final:
-    * Sesión 1: **jueves 11 de diciembre de 2025**.
-    * Sesión 2: **lunes 15 de diciembre de 2025**.
+    * Sesión 1: **miércoles 22 de abril de 2026**.
+    * Sesión 2: **sábado 25 de abril de 2026**.
 
 ---
 ---
