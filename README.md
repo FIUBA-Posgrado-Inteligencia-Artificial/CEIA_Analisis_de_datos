@@ -51,7 +51,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <tr>
         <td><a href=notebooks/clase_02_caso_practico.ipynb>notebook_clase_2_caso_practico</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="4">3️⃣</td>
         <td rowspan="4">Taller práctico parte 1 (EDA)</td> 
@@ -67,6 +66,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=recursos/clase_03_taller1_resuelta.ipynb>actividad-resuelta</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
