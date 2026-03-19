@@ -64,7 +64,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     </tr>
     </tr>
     <tr>
-        <td><a href=recursos/clase_03_taller1_resuelta.ipynb>actividad-resuelta</a></td>
+        <td><a href=notebooks/clase_03_taller1_resuelta.ipynb>actividad-resuelta</a></td>
     </tr>
     <!--
     <tr>
