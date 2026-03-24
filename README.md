@@ -66,7 +66,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_03_taller1_resuelta.ipynb>actividad-resuelta</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
@@ -81,6 +80,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretizacion</a></td>
     </tr>
+     <!--
     <tr>
         <td rowspan="4">5️⃣</td>
         <td rowspan="4">Procesamiento de datos (continuación)</td>
