@@ -4,6 +4,7 @@
 - **Practical Statistics for Data Scientists** de Peter Bruce, Andrew Bruce, and Peter Gedeck
 - **An Introduction to Statistical Learning with Applications in Pyhton** de Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
 * [An Introduction to Statistical Learning (ISLR) by Gareth James et al.](https://www.statlearning.com/)
+* [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
 
 
