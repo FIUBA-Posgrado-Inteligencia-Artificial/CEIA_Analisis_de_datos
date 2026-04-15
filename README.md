@@ -95,8 +95,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
     </tr>
     <tr>
-        <td rowspan="8">6️⃣</td>
-        <td rowspan="8">Reducción de la dimensionalidad + Bonus</td>
+        <td rowspan="7">6️⃣</td>
+        <td rowspan="7">Reducción de la dimensionalidad + Bonus</td>
         <td><a href=notebooks/clase_06_seleccion_features.ipynb>notebook_clase_6_seleccion_features</a></td>
     </tr>
     <tr>
@@ -117,23 +117,26 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_EDA_imagenes.ipynb>notebook_clase_6_bonus_imagenes</a></td>
     </tr>
+<!--
     <tr>
         <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
     </tr>
-     <!--
+--->
     <tr>
-        <td rowspan="4">7️⃣</td>
-        <td rowspan="4">Taller práctico - parte 2</td>
-    <tr>
+        <td rowspan="3">7️⃣</td>
+        <td rowspan="3">Taller práctico - parte 2 y bonus</td>
+    </tr>
+        <td><a href=notebooks/clase_07_PCA_imagenes.ipynb>notebook_clase_7_bonus_PCA_imagenes</a></td>
+    </tr>
+    <!--
         <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2_completa</a></td>
     </tr>
+    --->
     <tr>
         <td><a href=notebooks/clase_07_EDA_automatico.ipynb>notebook_clase_7_bonus_EDA_automatico</a></td>
     </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_preproc_automatico.ipynb>notebook_clase_7_bonus_preproc_automatico</a></td>
     </tr>
-    </tr>
+    <!--
     <tr>
         <td rowspan="3">8️⃣</td>
         <td rowspan="3">Bonus - Automatización del EDA</td>
