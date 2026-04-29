@@ -39,6 +39,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
+<!--
     <tr>
         <td rowspan="3">2️⃣</td>
         <td rowspan="3">Análisis exploratorio de datos (EDA).<br>
@@ -117,35 +118,14 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_06_EDA_imagenes.ipynb>notebook_clase_6_bonus_imagenes</a></td>
     </tr>
-<!--
-    <tr>
-        <td><a href=notebooks/clase_06_PCA_imagenes.ipynb>notebook_clase_6_bonus_PCA_imagenes</a></td>
-    </tr>
---->
     <tr>
         <td rowspan="3">7️⃣</td>
         <td rowspan="3">Taller práctico - parte 2 y bonus</td>
     </tr>
         <td><a href=notebooks/clase_07_PCA_imagenes.ipynb>notebook_clase_7_bonus_PCA_imagenes</a></td>
     </tr>
-    <!--
-        <td><a href=notebooks/clase_07_taller_parte_2.ipynb>notebook_clase_7_taller_parte_2_completa</a></td>
-    </tr>
-    --->
     <tr>
         <td><a href=notebooks/clase_07_EDA_automatico.ipynb>notebook_clase_7_bonus_EDA_automatico</a></td>
-    </tr>
-    </tr>
-    <!--
-    <tr>
-        <td rowspan="3">8️⃣</td>
-        <td rowspan="3">Bonus - Automatización del EDA</td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_08_EDA_automatico.ipynb>notebook_clase_8_EDA_automatico</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_08_preproc_automatico.ipynb>notebook_clase_8_preproc_automatico</a></td>
     </tr>
     -->
 </table>
@@ -160,8 +140,8 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 * Plazo para compartir las diapositivas del trabajo final: **martes 09/12/25 23:59 ART**
 -->
 * Presentación del trabajo práctico final:
-    * Sesión 1: **miércoles 22 de abril de 2026**.
-    * Sesión 2: **sábado 25 de abril de 2026**.
+    * Sesión 1: **miércoles 17 de junio de 2026**.
+    * Sesión 2: **sábado 20 de junio de 2026**.
 
 ---
 ---
