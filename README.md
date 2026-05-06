@@ -39,13 +39,16 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
     </tr>
-<!--
     <tr>
         <td rowspan="3">2️⃣</td>
         <td rowspan="3">Análisis exploratorio de datos (EDA).<br>
         Análisis de datos faltantes y outliers.</td>
-        <td><a href=notebooks/clase_02_intro_EDA.ipynb>notebook_clase_2_EDA</a></td>
+        <td><a href=notebooks/clase_02_intro_EDA_Titanic.ipynb>notebook_clase_2_EDA</a></td>
     </tr>
+    <tr>
+        <td><a href=notebooks/clase_02_correlacion.ipynb>notebook_clase_2_correlacion</a></td>
+    </tr>
+    <!--
     <tr>
         <td><a href=notebooks/clase_02_analisis_faltantes_outliers.ipynb>notebook_clase_2_faltantes_outliers</a></td>
     </tr>
