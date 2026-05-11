@@ -34,3 +34,41 @@ def plot_histograma(
     plt.show()
 
     return
+
+def cuartiles(variable):
+    Q1 = variable.quantile(0.25)
+    Q2 = variable.quantile(0.50)  # Percentile 50 - Equivalente a la mediana
+    Q3 = variable.quantile(0.75)
+    return Q1, Q2, Q3
+
+def plot_pie(data, column, ax=None, startangle=90, palette='pastel', title=None):
+    counts = data[column].value_counts()
+    total = counts.sum()
+    
+    # Identificar categorías menores al 10%
+    threshold = 0.1 * total
+    mask = counts < threshold
+    
+    if mask.any():
+        others_count = counts[mask].sum()
+        counts = counts[~mask].copy()
+        # Sumar a 'Other' si ya existe, o crearla
+        if 'Other' in counts:
+            counts['Other'] += others_count
+        else:
+            counts['Other'] = others_count
+        # Re-ordenar para que el gráfico sea estético
+        counts = counts.sort_values(ascending=False)
+
+    if ax is None:
+        fig, ax = plt.subplots(figsize=(5, 3))
+    
+    ax.pie(
+        counts,
+        labels=counts.index,
+        autopct='%1.1f%%',
+        startangle=startangle,
+        colors=sns.color_palette(palette, n_colors=len(counts))
+    )
+    ax.set_title(title if title else f'Distribución de "{column}"')
+    ax.axis('equal')
