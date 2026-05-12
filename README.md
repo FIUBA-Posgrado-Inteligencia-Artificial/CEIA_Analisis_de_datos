@@ -37,39 +37,29 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td>1️⃣</td>
         <td>Introducción al Análisis de Datos</td>
-        <td><a href=notebooks/clase_01_introduccion.ipynb>notebook_clase_1</a></td>
+        <td><a href=notebooks/clase_01_introduccion.ipynb>Introducción a Pandas. Ejemplos para importar datos desde distintas fuentes</a></td>
     </tr>
     <tr>
-        <td rowspan="3">2️⃣</td>
-        <td rowspan="3">Análisis exploratorio de datos (EDA).<br>
+        <td rowspan="2">2️⃣</td>
+        <td rowspan="2">Análisis exploratorio de datos (EDA).<br>
         Análisis de datos faltantes y outliers.</td>
-        <td><a href=notebooks/clase_02_intro_EDA_Titanic.ipynb>notebook_clase_2_EDA</a></td>
+        <td><a href=notebooks/clase_02_correlacion.ipynb>Ejemplos de correlación</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_02_correlacion.ipynb>notebook_clase_2_correlacion</a></td>
+        <td><a href=notebooks/clase_02_intro_EDA_Titanic.ipynb>Ejemplo de EDA para el dataset Titanic</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">3️⃣</td>
+        <td rowspan="3">EDA (continuación)</td> 
+        <td><a href=notebooks/clase_03_medidas_asociacion.ipynb>Medidas de asociación de variables</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_03_analisis_faltantes_outliers.ipynb>Análisis de faltantes y outliers</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_03_repaso_practico_1.ipynb>Repaso práctico con datos reales (parte 1)</a></td>
     </tr>
     <!--
-    <tr>
-        <td><a href=notebooks/clase_02_analisis_faltantes_outliers.ipynb>notebook_clase_2_faltantes_outliers</a></td>
-    </tr>
-        <tr>
-        <td><a href=notebooks/clase_02_caso_practico.ipynb>notebook_clase_2_caso_practico</a></td>
-    </tr>
-    <tr>
-        <td rowspan="4">3️⃣</td>
-        <td rowspan="4">Taller práctico parte 1 (EDA)</td> 
-        <td><a href=recursos/salas-1-2-3-taller.ipynb>enunciado-salas-1-2-3</a></td>
-    </tr>
-    <tr>
-        <td><a href=recursos/salas-4-5-6-taller.ipynb>enunciado-salas-4-5-6</a></td>
-    </tr>
-        <tr>
-        <td><a href=recursos/salas-7-8-9-taller.ipynb>enunciado-salas-7-8-9</a></td>
-    </tr>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_03_taller1_resuelta.ipynb>actividad-resuelta</a></td>
-    </tr>
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
