@@ -62,7 +62,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
-        <td><a href=notebooks/clase_04_split_y_desbalance.ipynb>Intro a ML parte II: split del dataset. Desbalance</a></td>
+        <td><a href=notebooks/clase_04_split_y_stratify.ipynb>Intro a ML parte II: split del dataset</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_04_codificacion.ipynb>Codificación</a></td>
