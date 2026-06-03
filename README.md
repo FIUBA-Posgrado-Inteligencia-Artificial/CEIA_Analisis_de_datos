@@ -82,7 +82,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>Normalización y estandarización</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>Técnicas avanzadas de tratamiento de faltantes</a><td>
+        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>Técnicas avanzadas de tratamiento de faltantes</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_05_tratamiento_outliers_adv.ipynb>Técnicas avanzadas de tratamiento de outliers</a></td>
