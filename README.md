@@ -82,7 +82,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>Normalización y estandarización</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>Técnicas avanzadas de tratamiento de faltantes</a><td>
+        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>Técnicas avanzadas de tratamiento de faltantes</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_05_tratamiento_outliers_adv.ipynb>Técnicas avanzadas de tratamiento de outliers</a></td>
@@ -90,40 +90,31 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>Desbalance</a></td>
     </tr>
-    <!--
     <tr>
-        <td rowspan="7">6️⃣</td>
-        <td rowspan="7">Reducción de la dimensionalidad + Bonus</td>
-        <td><a href=notebooks/clase_06_seleccion_features.ipynb>notebook_clase_6_seleccion_features</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_06_correlacion.ipynb>notebook_clase_6_correlacion</a></td>
+        <td rowspan="2">6️⃣</td>
+        <td rowspan="2">Reducción de la dimensionalidad</td>
+        <td><a href=notebooks/clase_06_seleccion_features.ipynb>Selección de features</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_extraccion_features_parte_1.ipynb>notebook_clase_6_extraccion_features_parte1</a></td>
+        <td><a href=notebooks/clase_06_extraccion_features.ipynb>Extracción de features</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_extraccion_features_parte_2.ipynb>notebook_clase_6_extraccion_features_parte2</a></td>
+        <td rowspan="6">7️⃣</td>
+        <td rowspan="6">Taller práctico y bonus</td>
+        <td><a href=notebooks/clase_07_bonus_EDA_automatico.ipynb>EDA automático</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_EDA_audio.ipynb>notebook_clase_6_bonus_audio</a></td>
+        <td><a href=notebooks/clase_07_bonus_EDA_audio.ipynb>EDA audio</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_EDA_texto.ipynb>notebook_clase_6_bonus_texto</a></td>
+        <td><a href=notebooks/clase_07_bonus_EDA_texto.ipynb>EDA texto</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_06_EDA_imagenes.ipynb>notebook_clase_6_bonus_imagenes</a></td>
+        <td><a href=notebooks/clase_07_bonus_EDA_imagenes.ipynb>EDA imágenes</a></td>
     </tr>
     <tr>
-        <td rowspan="3">7️⃣</td>
-        <td rowspan="3">Taller práctico - parte 2 y bonus</td>
+        <td><a href=notebooks/clase_07_bonus_PCA_imagenes.ipynb>PCA aplicado a imágenes</a></td>
     </tr>
-        <td><a href=notebooks/clase_07_PCA_imagenes.ipynb>notebook_clase_7_bonus_PCA_imagenes</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_EDA_automatico.ipynb>notebook_clase_7_bonus_EDA_automatico</a></td>
-    </tr>
-    -->
 </table>
 
 ---
