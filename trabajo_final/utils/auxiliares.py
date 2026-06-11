@@ -1,6 +1,8 @@
 import pandas as pd
+import numpy as np
 import io
 from scipy.stats import f_oneway
+from scipy.stats import chi2_contingency
 
 def read_multi_csv(filepath: str) -> dict[str, pd.DataFrame]:
     dataframes = {}
@@ -56,3 +58,10 @@ def eta_squared(continuous, categorical):
     ss_total   = ((y - grand_mean) ** 2).sum()
     ss_between = sum(len(g) * (g.mean() - grand_mean) ** 2 for g in groups)
     return ss_between / ss_total, p, F
+
+def cramers_v(x, y):
+    confusion_matrix = pd.crosstab(x, y)
+    chi2 = chi2_contingency(confusion_matrix)[0]
+    n = confusion_matrix.sum().sum()
+    r, k = confusion_matrix.shape
+    return np.sqrt(chi2 / (n * min(k - 1, r - 1)))
