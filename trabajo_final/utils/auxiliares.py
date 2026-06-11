@@ -1,5 +1,6 @@
 import pandas as pd
 import io
+from scipy.stats import f_oneway
 
 def read_multi_csv(filepath: str) -> dict[str, pd.DataFrame]:
     dataframes = {}
@@ -44,3 +45,14 @@ def group_by_condition(df, grouping_cols, target_col, condition=pd.isnull):
         .reset_index(name=f'percentage_of_{target_col}')
     )
     return grouped_data
+
+
+def eta_squared(continuous, categorical):
+    mask       = continuous.notna() & categorical.notna()
+    y, grp     = continuous[mask], categorical[mask]
+    groups     = [g.values for _, g in y.groupby(grp, observed=True)]
+    F, p       = f_oneway(*groups)
+    grand_mean = y.mean()
+    ss_total   = ((y - grand_mean) ** 2).sum()
+    ss_between = sum(len(g) * (g.mean() - grand_mean) ** 2 for g in groups)
+    return ss_between / ss_total, p, F
