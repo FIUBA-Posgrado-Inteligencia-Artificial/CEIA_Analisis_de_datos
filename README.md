@@ -39,6 +39,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>Introducción a Pandas. Ejemplos para importar datos desde distintas fuentes</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA).<br>
@@ -115,6 +116,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_07_bonus_PCA_imagenes.ipynb>PCA aplicado a imágenes</a></td>
     </tr>
+    -->
 </table>
 
 ---
@@ -127,9 +129,10 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
 * Plazo para compartir las diapositivas del trabajo final: **martes 09/12/25 23:59 ART**
 -->
 * Presentación del trabajo práctico final:
-    * Sesión 1: **miércoles 17 de junio de 2026**.
+    * **Miércoles 19 de agosto de 2026**.
+<!--
     * Sesión 2: **sábado 20 de junio de 2026**.
-
+-->
 ---
 ---
 ## ⚙️ Instalación y Configuración del Entorno
