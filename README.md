@@ -39,7 +39,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td>Introducción al Análisis de Datos</td>
         <td><a href=notebooks/clase_01_introduccion.ipynb>Introducción a Pandas. Ejemplos para importar datos desde distintas fuentes</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA).<br>
@@ -47,8 +46,9 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_02_correlacion.ipynb>Ejemplos de correlación</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_02_intro_EDA_Titanic.ipynb>Ejemplo de EDA para el dataset Titanic</a></td>
+        <td><a href=notebooks/clase_02_intro_EDA.ipynb>Ejemplo de EDA para el dataset Titanic</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="3">3️⃣</td>
         <td rowspan="3">EDA (continuación)</td> 
