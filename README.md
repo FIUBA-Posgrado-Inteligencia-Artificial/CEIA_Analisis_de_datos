@@ -57,7 +57,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td><a href=notebooks/clase_03_analisis_faltantes_outliers.ipynb>Análisis de faltantes y outliers</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_03_repaso_practico_1.ipynb>Repaso práctico con datos reales (parte 1)</a></td>
+        <td><a href=notebooks/clase_03_EDA_ejemplo_SMN.ipynb>Repaso práctico con datos reales del SMN</a></td>
     </tr>
     <!--
     <tr>
