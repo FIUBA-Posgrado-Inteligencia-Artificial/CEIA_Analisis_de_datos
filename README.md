@@ -48,7 +48,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_02_intro_EDA.ipynb>Ejemplo de EDA para el dataset Titanic</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="3">3️⃣</td>
         <td rowspan="3">EDA (continuación)</td> 
@@ -60,6 +59,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_03_repaso_practico_1.ipynb>Repaso práctico con datos reales (parte 1)</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
