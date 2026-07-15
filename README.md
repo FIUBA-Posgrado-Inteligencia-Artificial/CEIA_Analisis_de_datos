@@ -59,7 +59,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_03_EDA_ejemplo_SMN.ipynb>Repaso práctico con datos reales del SMN</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
@@ -74,6 +73,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>Tratamiento de outliers</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="5">5️⃣</td>
         <td rowspan="5">Procesamiento de datos (continuación)</td>
