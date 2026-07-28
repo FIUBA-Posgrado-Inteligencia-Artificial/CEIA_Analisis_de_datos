@@ -73,7 +73,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>Tratamiento de outliers</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="5">5️⃣</td>
         <td rowspan="5">Procesamiento de datos (continuación)</td>
@@ -91,6 +90,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>Desbalance</a></td>
     </tr>
+    <!--
     <tr>
         <td rowspan="2">6️⃣</td>
         <td rowspan="2">Reducción de la dimensionalidad</td>
