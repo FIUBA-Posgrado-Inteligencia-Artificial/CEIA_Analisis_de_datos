@@ -90,12 +90,12 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>Desbalance</a></td>
     </tr>
-    <!--
     <tr>
-        <td rowspan="2">6️⃣</td>
-        <td rowspan="2">Reducción de la dimensionalidad</td>
+        <td rowspan="1">6️⃣</td>
+        <td rowspan="1">Reducción de la dimensionalidad</td>
         <td><a href=notebooks/clase_06_seleccion_features.ipynb>Selección de features</a></td>
     </tr>
+    <!--
     <tr>
         <td><a href=notebooks/clase_06_extraccion_features.ipynb>Extracción de features</a></td>
     </tr>
