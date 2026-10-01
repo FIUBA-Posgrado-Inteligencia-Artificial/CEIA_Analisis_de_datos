@@ -95,7 +95,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
         <td rowspan="1">Reducción de la dimensionalidad</td>
         <td><a href=notebooks/clase_06_seleccion_features.ipynb>Selección de features</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="7">7️⃣</td>
         <td rowspan="7">Taller práctico y bonus</td>
@@ -116,7 +115,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_07_bonus_PCA_imagenes.ipynb>PCA aplicado a imágenes</a></td>
     </tr>
-    -->
 </table>
 
 ---
