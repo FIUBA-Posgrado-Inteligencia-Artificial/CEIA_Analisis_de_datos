@@ -90,7 +90,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_05_desbalance.ipynb>Desbalance</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="1">6️⃣</td>
         <td rowspan="1">Reducción de la dimensionalidad</td>
@@ -116,7 +115,6 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_07_bonus_PCA_imagenes.ipynb>PCA aplicado a imágenes</a></td>
     </tr>
-    -->
 </table>
 
 ---
